@@ -11,7 +11,7 @@ line_offset = []
 
 #Download data from http://deeptutor2.memphis.edu/Semilar-Web/public/lsa-models-lrec2014.html
 #Merge all the lsaModel files and voc files
-#cat lsa_model1 lsa_model2... > merged_lsaModel
+#cat wiki1/lsa_model1 wiki2/lsa_model2... > merged_lsaModel
 
 def prepare_Data():
     fp1 = open("wiki_lsa_model/merged_voc")
