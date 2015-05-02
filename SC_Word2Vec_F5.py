@@ -37,7 +37,7 @@ import os
 
 wiki_Data_List=[]
 def prepare_Data():
-    dir="wikiData_Output/"
+    dir="wikiData/"
     files = os.listdir(dir)
     for fname in files:
         with open(dir+fname) as infile:
@@ -57,12 +57,6 @@ model=Word2Vec(wiki_Data_List, min_count=1)
 
 def cosine_Similarity_Words(word, option, question_Count):
     try:
-#         sentences = [['first','sentence'],['second','sentence']]
-        
-#         model = Word2Vec.load_word2vec_format('wikiData_Output/wiki_Data_1.txt', binary=False)  # C text format
-    #     model.similarity('woman', 'man') #
-#         print model['clip'] #raw numpy vector of a word  
-    #     model.n_similarity(['sushi', 'shop'], ['japanese', 'restaurant'])#cos similarity between two sets of words
         return model.similarity(word, option)#cos similarity between two words
     except:
         print 'Exception'
