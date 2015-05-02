@@ -26,9 +26,6 @@ def compareWords(word1, word2):
     ss2 = wordnet.synsets(word2)
     return max(s1.path_similarity(s2) for (s1, s2) in product(ss1, ss2))
 
-print compareWords('affable', 'sociable')
-
-exit()
 
 #Get the stop word list from NLTK corpus
 stop_Word_List = set(stopwords.words('english'))

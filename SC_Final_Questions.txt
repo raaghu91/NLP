@@ -1078,11 +1078,11 @@
 216.  It would take many hours of cleaning and repairing for the young family to transform the [hovel] into a clean and comfortable little cottage.
 216.  It would take many hours of cleaning and repairing for the young family to transform the [demesne] into a clean and comfortable little cottage.
 216.  It would take many hours of cleaning and repairing for the young family to transform the [hacienda] into a clean and comfortable little cottage.
-217.  Ms. Lu allowed her son a great deal of [injunction] in spending his birthday money, because she believed it should be his decision.
-217.  Ms. Lu allowed her son a great deal of [assimilation] in spending his birthday money, because she believed it should be his decision.
-217.  Ms. Lu allowed her son a great deal of [latitude] in spending his birthday money, because she believed it should be his decision.
-217.  Ms. Lu allowed her son a great deal of [declamation] in spending his birthday money, because she believed it should be his decision.
-217.  Ms. Lu allowed her son a great deal of [stimulus] in spending his birthday money, because she believed it should be his decision.
+217.  Lu allowed her son a great deal of [injunction] in spending his birthday money, because she believed it should be his decision.
+217.  Lu allowed her son a great deal of [assimilation] in spending his birthday money, because she believed it should be his decision.
+217.  Lu allowed her son a great deal of [latitude] in spending his birthday money, because she believed it should be his decision.
+217.  Lu allowed her son a great deal of [declamation] in spending his birthday money, because she believed it should be his decision.
+217.  Lu allowed her son a great deal of [stimulus] in spending his birthday money, because she believed it should be his decision.
 218.  It was once believed that alchemists could [transmute] common metals to gold.
 218.  It was once believed that alchemists could [commute] common metals to gold.
 218.  It was once believed that alchemists could [execute] common metals to gold.
@@ -1968,11 +1968,11 @@
 394.  Diane, always teasing, was known for her [logic] , but as a result, nobody knew when to take her seriously.
 394.  Diane, always teasing, was known for her [austerity] , but as a result, nobody knew when to take her seriously.
 394.  Diane, always teasing, was known for her [inclemency] , but as a result, nobody knew when to take her seriously.
-395. “Absolute power corrupts absolutely,” said Haines. “There is no such thing as a(n) [imbroglio] who is not a corrupt and cruel ruler.”
-395. “Absolute power corrupts absolutely,” said Haines. “There is no such thing as a(n) [pedant] who is not a corrupt and cruel ruler.”
-395. “Absolute power corrupts absolutely,” said Haines. “There is no such thing as a(n) [despot] who is not a corrupt and cruel ruler.”
-395. “Absolute power corrupts absolutely,” said Haines. “There is no such thing as a(n) [agnostic] who is not a corrupt and cruel ruler.”
-395. “Absolute power corrupts absolutely,” said Haines. “There is no such thing as a(n) [archetype] who is not a corrupt and cruel ruler.”
+395. “Absolute power corrupts absolutely,” said Haines “There is no such thing as a(n) [imbroglio] who is not a corrupt and cruel ruler.”
+395. “Absolute power corrupts absolutely,” said Haines “There is no such thing as a(n) [pedant] who is not a corrupt and cruel ruler.”
+395. “Absolute power corrupts absolutely,” said Haines “There is no such thing as a(n) [despot] who is not a corrupt and cruel ruler.”
+395. “Absolute power corrupts absolutely,” said Haines “There is no such thing as a(n) [agnostic] who is not a corrupt and cruel ruler.”
+395. “Absolute power corrupts absolutely,” said Haines “There is no such thing as a(n) [archetype] who is not a corrupt and cruel ruler.”
 396.  During his [treatise] in office the mayor made several controversial decisions about city planning.
 396.  During his [integration] in office the mayor made several controversial decisions about city planning.
 396.  During his [teem] in office the mayor made several controversial decisions about city planning.
@@ -2113,11 +2113,11 @@
 423.  The meticulous art student arranged her paint colors by a darkening [moratorium] on her palette.
 423.  The meticulous art student arranged her paint colors by a darkening [juncture] on her palette.
 423.  The meticulous art student arranged her paint colors by a darkening [tincture] on her palette.
-424.  J.P. recalled running through the [terminals] of tall rows of corn stalks that dominated his grandfather’s summer garden.
-424.  J.P. recalled running through the [temperament] of tall rows of corn stalks that dominated his grandfather’s summer garden.
-424.  J.P. recalled running through the [labyrinth] of tall rows of corn stalks that dominated his grandfather’s summer garden.
-424.  J.P. recalled running through the [basin] of tall rows of corn stalks that dominated his grandfather’s summer garden.
-424.  J.P. recalled running through the [deference] of tall rows of corn stalks that dominated his grandfather’s summer garden.
+424.  He recalled running through the [terminals] of tall rows of corn stalks that dominated his grandfather’s summer garden.
+424.  He recalled running through the [temperament] of tall rows of corn stalks that dominated his grandfather’s summer garden.
+424.  He recalled running through the [labyrinth] of tall rows of corn stalks that dominated his grandfather’s summer garden.
+424.  He recalled running through the [basin] of tall rows of corn stalks that dominated his grandfather’s summer garden.
+424.  He recalled running through the [deference] of tall rows of corn stalks that dominated his grandfather’s summer garden.
 425.  Peter displayed an air of [omniscience] when the officer asked him if he knew the speed limit.
 425.  Peter displayed an air of [obstinacy] when the officer asked him if he knew the speed limit.
 425.  Peter displayed an air of [nescience] when the officer asked him if he knew the speed limit.
