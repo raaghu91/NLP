@@ -24,31 +24,52 @@ from nltk.corpus import stopwords
 from gensim.models import Word2Vec
 import os
 
-def merge_Wiki_Data():
-    dir="wikiData/"
+# def merge_Wiki_Data():
+#     dir="wikiData/"
+#     files = os.listdir(dir)
+#     with open('wikiData_Output/wiki_Data.txt', 'w') as outfile:
+#         for fname in files:
+#             with open(dir+fname) as infile:
+#                 outfile.write(infile.read())
+#                 
+# merge_Wiki_Data()
+# exit()
+
+wiki_Data_List=[]
+def prepare_Data():
+    dir="wikiData_Output/"
     files = os.listdir(dir)
-    with open('wikiData_Output/wiki_Data.txt', 'w') as outfile:
         for fname in files:
             with open(dir+fname) as infile:
-                outfile.write(infile.read())
-                
-merge_Wiki_Data()
-exit()
-            
+                file_Data=infile.read()
+                sentences=file_Data.split('.')
+                for sentence in sentences:
+                    word_List=[word for word in sentence.strip(' ').split(' ') if word != ' ']
+                    wiki_Data_List.append(word_List)
+
+# prepare_Data()
+# print wiki_Data_List
+# exit()
+
 broken_Words={}
-def cosine_Similarity_Words(word, option):
-    try:
-        model = Word2Vec.load_word2vec_format('/tmp/vectors.txt', binary=False)  # C text format
+def cosine_Similarity_Words(word, option, question_Count):
+#     try:
+#         sentences = [['first','sentence'],['second','sentence']]
+        prepare_Data()
+        model=Word2Vec(wiki_Data_List, min_count=1)
+#         model = Word2Vec.load_word2vec_format('wikiData_Output/wiki_Data_1.txt', binary=False)  # C text format
     #     model.similarity('woman', 'man') #
-    #     model['computer'] #raw numpy vector of a word  
+        print model['clip'] #raw numpy vector of a word  
     #     model.n_similarity(['sushi', 'shop'], ['japanese', 'restaurant'])#cos similarity between two sets of words
-        return model.similarity(word, option)#cos similarity between two words
-    except:
-        print 'Exception'
-        broken_Words.setdefault(question_Count,[])
-        broken_Words[question_Count].append((word, option))
+        return model.similarity('download', 'clip')#cos similarity between two words
+#     except:
+#         print 'Exception'
+#         broken_Words.setdefault(question_Count,[])
+#         broken_Words[question_Count].append((word, option))
         
 
+print cosine_Similarity_Words('first', 'sentence', 0)
+exit()
 #Get the stop word list from NLTK corpus
 stop_Word_List = set(stopwords.words('english'))
 
@@ -69,7 +90,7 @@ option_Count=0
 true_count = 0
 same_Count=0
 wrong_Count=0
-while question_Count<501:
+while question_Count<10:
     try:
         predicted_Prob={}
         print('question no:',question_Count + 1)
@@ -119,6 +140,4 @@ while question_Count<501:
 print true_count
 print same_Count
 print wrong_Count
-
-
-
+print broken_Words
