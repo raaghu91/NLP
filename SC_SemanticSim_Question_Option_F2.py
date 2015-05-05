@@ -55,8 +55,8 @@ while question_Count<501:
             option_Prob=sem_text_sim(question,option)
             predicted_Prob[option]=option_Prob
             
-        results_vector.write(str(predicted_Prob[option]))
-        results_vector.write("\t");
+            results_vector.write(str(predicted_Prob[option]))
+            results_vector.write("\t");
         results_vector.write("\n");   
         print predicted_Prob
         max_Prob = max(predicted_Prob.values())
