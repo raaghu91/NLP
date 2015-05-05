@@ -21,11 +21,17 @@ with open('SC_Final_Answers.txt','r') as answers_file:
         answers_Sent.append(line)
  
 #Feature 1
-def compareWords(word1, word2):
-    ss1 = wordnet.synsets(word1)
-    ss2 = wordnet.synsets(word2)
-    return max(s1.path_similarity(s2) for (s1, s2) in product(ss1, ss2))
-
+broken_Words={}
+def compareWords(word1, word2, question_Count):
+    try:
+        ss1 = wordnet.synsets(word1)
+        ss2 = wordnet.synsets(word2)
+        return max(s1.path_similarity(s2) for (s1, s2) in product(ss1, ss2))
+    except:
+        print 'Exception'
+        broken_Words.setdefault(question_Count,[])
+        broken_Words[question_Count].append((word, option))
+        return 0
 
 #Get the stop word list from NLTK corpus
 stop_Word_List = set(stopwords.words('english'))
@@ -50,11 +56,7 @@ while question_Count<501:
             for word in question.strip().split(' '):
                 if word.lower() not in stop_Word_List:
                     word=word.replace(',','')
-#                         print word
-                    try:
-                        option_Prob=compareWords(word,option)
-                    except:
-                        print 'error in compare words for word:%s and option:%s',(word,option)
+                    option_Prob=compareWords(word,option, question_Count)
                     predicted_Prob[word+'_'+option]=option_Prob                
         print predicted_Prob
         max_Prob = max(predicted_Prob.values())
@@ -79,15 +81,15 @@ while question_Count<501:
         print('---------------------------------------------')
         question_Count=question_Count+1
         option_Count=option_Count+5
-        print(true_count)
     except:
         print('exception occured')
         question_Count=question_Count+1
         option_Count=option_Count+5
         pass
     
-# print true_count
-# print same_Count
-# print wrong_Count
+print true_count
+print same_Count
+print wrong_Count
+print broken_Words
 
 

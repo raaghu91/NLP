@@ -1,0 +1,3386 @@
+('question no:', 1)
+{'blighted': 0.443494862, 'ostentatious': 0.413240414, 'confutative': 0, 'blissful': 0.395349975, 'ravenous': 0.568183237}
+true ravenous
+---------------------------------------------
+1
+('question no:', 2)
+{'vocalizations': 0, 'vulgarity': 0.945756248, 'tonality': 0, 'verbosity': 0, 'garishness': 0}
+true vulgarity
+---------------------------------------------
+2
+('question no:', 3)
+{'modest': 0.6628571619999999, 'magisterial': 0, 'restorative': 0, 'insentient': 0, 'reparatory': 0}
+wrong modest
+---------------------------------------------
+2
+('question no:', 4)
+{'punctual': 0.6292921549999999, 'legible': 0.793135316, 'tolerable': 0.907687727, 'belligerent': 0, 'literal': 0.755708415}
+wrong tolerable
+---------------------------------------------
+2
+('question no:', 5)
+{'lamente': 0, 'advocate': 0.746521734, 'provoke': 2.24724022, 'perforate': 0.4907641, 'expunge': 0}
+true provoke
+---------------------------------------------
+3
+('question no:', 6)
+{'striated': 0, 'enthralled': 0.5833333, 'scintillated': 0, 'titillated': 0.5260386650000001, 'reiterated': 0.802815854}
+wrong reiterated
+---------------------------------------------
+3
+('question no:', 7)
+{'reciprocate': 0.789779418, 'reiterate': 0.633084352, 'recombinant': 0, 'necessitate': 1.35, 'maximize': 0.608336666}
+true necessitate
+---------------------------------------------
+4
+('question no:', 8)
+{'sanctioned': 0.945501038, 'solicited': 0.5823346089999999, 'proclaimed': 1.448698275, 'coerced': 1.4766330970000001, 'abetted': 0.662779953}
+wrong coerced
+---------------------------------------------
+4
+('question no:', 9)
+{'generic': 0.8237434190000001, 'dutiful': 0.3695899693, 'obstinate': 0.565433018, 'prolific': 0.9514171909999999, 'numeric': 0}
+true prolific
+---------------------------------------------
+5
+('question no:', 10)
+{'acute': 0.37249981, 'satisfactory': 0.895937115, 'galling': 0.36072977, 'commendable': 0.3722302, 'acceptable': 0.389715942}
+wrong satisfactory
+---------------------------------------------
+5
+('question no:', 11)
+{'winnow': 0, 'upbraid': 0, 'abdicate': 1.160033632, 'extol': 1.2086302839999998, 'reprimand': 0.5908811629999999}
+wrong extol
+---------------------------------------------
+5
+('question no:', 12)
+{'predilection': 0.446465696, 'coercion': 0.664073804, 'excursion': 0.732635383, 'volition': 0.69697705, 'infusion': 0.915928934}
+wrong infusion
+---------------------------------------------
+5
+('question no:', 13)
+{'imposing': 0.98771118, 'malodorous': 0, 'perforated': 0.542454654, 'prevalent': 1.005456245, 'emphatic': 0.553644008}
+wrong prevalent
+---------------------------------------------
+5
+('question no:', 14)
+{'quaint': 0.7817672270000001, 'clandestine': 0.6985256820000001, 'fastidious': 0.869863337, 'laconic': 0, 'fetid': 0.97993404}
+true fetid
+---------------------------------------------
+6
+('question no:', 15)
+{'chivalrous': 0.8051965560000001, 'irreverent': 1.2422351319999998, 'itinerant': 1.3650704200000001, 'enterprising': 0.634784448, 'hospitable': 1.0859649059999998}
+wrong itinerant
+---------------------------------------------
+6
+('question no:', 16)
+{'conspiratorial': 0.37683737100000003, 'keen': 0.326755176, 'ductile': 0, 'impressionable': 0.5777163459999999, 'inferior': 0.8170687080000001}
+wrong inferior
+---------------------------------------------
+6
+('question no:', 17)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'impartial': 0.485773858, 'stereotypical': 0.6746570970000001, 'nefarious': 0.5625, 'jaundiced': 0.634331401, 'sentimental': 0.8436796160000001}
+wrong sentimental
+---------------------------------------------
+6
+('question no:', 18)
+{'plausible': 0.8550110639999999, 'meritorious': 0, 'maudlin': 1.294197606, 'schematic': 0, 'precarious': 0.8479260090000001}
+true maudlin
+---------------------------------------------
+7
+('question no:', 19)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'acquitted': 1.0722161099999998, 'nullified': 0.769932372, 'tenuous': 0.500178801, 'steadfast': 0.43408069600000004, 'complicit': 0}
+wrong acquitted
+---------------------------------------------
+7
+('question no:', 20)
+{'subversion': 0, 'premonition': 0.8299684160000002, 'inversion': 1.1471886700000002, 'predilection': 0.714877924, 'infusion': 1.5241287460000001}
+wrong infusion
+---------------------------------------------
+7
+('question no:', 21)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'malevolence': 1.2244191349999998, 'insurgence': 0, 'reciprocation': 0, 'preference': 2.64463314, 'declamation': 0}
+wrong preference
+---------------------------------------------
+7
+('question no:', 22)
+{'flagrancy': 0, 'kleptomania': 0, 'usury': 0, 'novice': 0.5818121009999999, 'bankruptcy': 1.059409474}
+wrong bankruptcy
+---------------------------------------------
+7
+('question no:', 23)
+{'impertinent': 0.45402640400000005, 'supplicant': 0, 'kaleidoscopic': 0, 'preeminent': 0, 'illustrative': 1.268314934}
+wrong illustrative
+---------------------------------------------
+7
+('question no:', 24)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'acrimonious': 0.6623002370000001, 'plaintive': 0.88550997, 'deciduous': 0, 'hirsute': 0, 'votive': 0}
+wrong plaintive
+---------------------------------------------
+7
+('question no:', 25)
+{'indispensable': 0.6171034030000001, 'commensurate': 0, 'propulsive': 0, 'indisputable': 1.082526463, 'indiscriminate': 0.410912659}
+wrong indisputable
+---------------------------------------------
+7
+('question no:', 26)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'aloof': 0.717408155, 'jesting': 1.001047126, 'conservative': 0.9738227429999999, 'grave': 0.473389384, 'earnest': 0.631233578}
+true jesting
+---------------------------------------------
+8
+('question no:', 27)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'daunted': 0.5885171220000001, 'urbane': 0, 'eminent': 0.6977447790000001, 'erect': 0.93432261, 'prone': 1.0758030809999999}
+true prone
+---------------------------------------------
+9
+('question no:', 28)
+{'droll': 0.43150252099999997, 'decorous': 0.337557919, 'rogue': 0.656688848, 'onerous': 0.518387266, 'antebellum': 0.66390517}
+true antebellum
+---------------------------------------------
+10
+('question no:', 29)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'teemed': 0.774574698, 'conjoined': 0, 'jettisoned': 1.3541562329999999, 'encroached': 1.9885315749999999, 'repudiated': 0.811772757}
+true encroached
+---------------------------------------------
+11
+('question no:', 30)
+{'dormant': 0.341187505, 'reflective': 1.092812111, 'proficient': 1.13951208, 'valiant': 0.559608508, 'redundant': 0.433007671}
+true proficient
+---------------------------------------------
+12
+('question no:', 31)
+{'converge': 1.0473449529999999, 'probe': 1.2520434189999998, 'prescribe': 0.819903685, 'revere': 0.662330116, 'alienate': 0.5653827640000001}
+true probe
+---------------------------------------------
+13
+('question no:', 32)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'gullible': 0.60788153, 'jovial': 0.49055964, 'paltry': 0.36395352000000003, 'depleted': 0.5207778759999999, 'stealthy': 0.495756773}
+wrong gullible
+---------------------------------------------
+13
+('question no:', 33)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'invulnerable': 0, 'static': 0.8637289400000001, 'churlish': 0.7373170299999999, 'vulnerable': 1.153005271, 'imprudent': 0}
+true vulnerable
+---------------------------------------------
+14
+('question no:', 34)
+{'corrupt': 0.39345797, 'tedious': 0.344651757, 'judicious': 0.562029201, 'sardonic': 0.23984128200000004, 'unhallowed': 0}
+true judicious
+---------------------------------------------
+15
+('question no:', 35)
+{'morose': 0.49006353299999994, 'raucous': 0.325326584, 'flagrant': 0.692349495, 'nominal': 0.70637586, 'copious': 0.46312582100000005}
+wrong nominal
+---------------------------------------------
+15
+('question no:', 36)
+{'punctilious': 0, 'antecedent': 0, 'resurgent': 0.5415024239999999, 'malignant': 0.521556922, 'premature': 1.345658229}
+wrong premature
+---------------------------------------------
+15
+('question no:', 37)
+{'tantamount': 0.772252086, 'prosaic': 0.599942787, 'apocryphal': 0, 'bemused': 0.47136310800000003, 'ebullient': 0.384492063}
+wrong tantamount
+---------------------------------------------
+15
+('question no:', 38)
+{'procrastinate': 0.5458329580000001, 'ponder': 0.809263146, 'excel': 0.8774539269999999, 'dedicate': 2.02438555, 'rejuvenate': 0.908187617}
+wrong dedicate
+---------------------------------------------
+15
+('question no:', 39)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'tacit': 0.7054258640000001, 'taboo': 0.715027977, 'trecherous': 0, 'tactful': 0.49405768899999997, 'scintillating': 0.820743837}
+wrong scintillating
+---------------------------------------------
+15
+('question no:', 40)
+{'dictum': 0, 'harbinger': 0, 'metamorphosis': 0.43218389500000004, 'apogee': 0, 'synthesis': 0.475919321}
+wrong synthesis
+---------------------------------------------
+15
+('question no:', 41)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'unsullied': 0, 'cunning': 1.032722665, 'pitiless': 0.696177443, 'somber': 1.040908628, 'jubilant': 1.125939255}
+true jubilant
+---------------------------------------------
+16
+('question no:', 42)
+{'fawning': 0.47132356000000003, 'facetious': 0.397740226, 'saccharine': 0, 'magnanimous': 0.7600815399999999, 'abstruse': 0}
+wrong magnanimous
+---------------------------------------------
+16
+('question no:', 43)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'quintessence': 0.686074131, 'epitome': 0.9323407909999999, 'recitative': 0, 'tempest': 0.8501413690000001, 'travesty': 1.2657974390000002}
+true travesty
+---------------------------------------------
+17
+('question no:', 44)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'mottled': 0, 'credible': 0.8762859040000001, 'malleable': 0, 'bleak': 0.550735228, 'communicable': 0.48026029300000006}
+wrong credible
+---------------------------------------------
+17
+('question no:', 45)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'embellished': 0.34043848400000004, 'flourished': 0.8600321210000001, 'touted': 0.36588210000000004, 'colluded': 0, 'bantered': 0.48029736999999995}
+true flourished
+---------------------------------------------
+18
+('question no:', 46)
+{'flummoxed': 0, 'striated': 0, 'feigned': 0.6338055, 'prevaricated': 0, 'censured': 0.40666712800000004}
+wrong feigned
+---------------------------------------------
+18
+('question no:', 47)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'facade': 0.46560651200000003, 'protagonist': 1.469845391, 'enigma': 0.780349067, 'activist': 1.1332369439999999, 'catechist': 0}
+true protagonist
+---------------------------------------------
+19
+('question no:', 48)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'endow': 0.625, 'placate': 0, 'warrant': 0.6523836299999999, 'wreak': 0.7963748890000001, 'ensue': 1.1763915470000001}
+wrong ensue
+---------------------------------------------
+19
+('question no:', 49)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'confluence': 0, 'propriety': 0.42326563800000006, 'compunction': 0.249168682, 'aplomb': 0.439976763, 'nostalgia': 0.874685946}
+wrong nostalgia
+---------------------------------------------
+19
+('question no:', 50)
+{'calculation': 0.693290744, 'affectation': 0.42613148, 'mandate': 0.60315919, 'allotment': 0.5623479140000001, 'dominion': 0.565386572}
+wrong calculation
+---------------------------------------------
+19
+('question no:', 51)
+{'sensational': 0.494689894, 'senile': 0, 'sentimental': 0.516305956, 'static': 0.4911173800000001, 'sentient': 0}
+wrong sentimental
+---------------------------------------------
+19
+('question no:', 52)
+{'trivialize': 0.45908925, 'placate': 0, 'antiquate': 0, 'fetter': 0.673399707, 'rant': 0.519227884}
+wrong fetter
+---------------------------------------------
+19
+('question no:', 53)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'negligent': 0.15492326, 'burdensome': 0, 'boastful': 0.047373384, 'charismatic': 0.145506425, 'exceptional': 0.21656118600000002}
+wrong exceptional
+---------------------------------------------
+19
+('question no:', 54)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'juncture': 1.364049621, 'acclamation': 0.75, 'enigma': 1.047220195, 'conviction': 1.6422434359999998, 'revelation': 1.865562494}
+wrong revelation
+---------------------------------------------
+19
+('question no:', 55)
+{'compatriot': 0.80034539, 'martyr': 0.79137477, 'nonconformist': 0.46509170399999994, 'reactionary': 0.7415777189999999, 'knave': 0}
+wrong compatriot
+---------------------------------------------
+19
+('question no:', 56)
+{'scurrilous': 0.622022163, 'sibilant': 0, 'diverting': 1.0500244360000002, 'scintillating': 0.593012864, 'sinuous': 0}
+wrong diverting
+---------------------------------------------
+19
+('question no:', 57)
+{'platitude': 0.46963434699999995, 'tribute': 0.813659519, 'ire': 0, 'disinclination': 0, 'rapport': 1.3659151660000002}
+true rapport
+---------------------------------------------
+20
+('question no:', 58)
+{'mutual': 0.960922516, 'correlative': 0, 'manifold': 0.9455285160000001, 'heedless': 0.621321933, 'complementary': 1.06282726}
+wrong complementary
+---------------------------------------------
+20
+('question no:', 59)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'precise': 0.7491814449999998, 'lithe': 0, 'untimely': 0.400449228, 'fortuitous': 0.7764012850000002, 'tensile': 0}
+wrong fortuitous
+---------------------------------------------
+20
+('question no:', 60)
+{'quaint': 0.9542741060000001, 'provincial': 1.349558568, 'candid': 0.6758780710000001, 'timid': 0.706986022, 'arable': 1.31520679}
+wrong provincial
+---------------------------------------------
+20
+('question no:', 61)
+{'gangling': 0.162864913, 'studious': 0.28782808000000004, 'mimetic': 0, 'reserved': 0.276197221, 'abject': 0}
+wrong studious
+---------------------------------------------
+20
+('question no:', 62)
+{'retinue': 0.500360635, 'adulation': 1.0693708499999999, 'rapport': 1.049950879, 'reprisal': 0.7323485867, 'bulwark': 0}
+true adulation
+---------------------------------------------
+21
+('question no:', 63)
+{'bountiful': 0.5263445769999999, 'judgmental': 0.43119641, 'nominal': 1.0692674800000002, 'jovial': 0.413366746, 'existential': 0}
+true nominal
+---------------------------------------------
+22
+('question no:', 64)
+{'amplify': 0.521411529, 'darken': 0.809747177, 'glorify': 0.6633729559999999, 'ransack': 0.86665938, 'justify': 0.858049892}
+true ransack
+---------------------------------------------
+23
+('question no:', 65)
+Exception
+{'begrudging': 0.560249534, 'foundling': 0, 'yearling': 0, 'starling': 0.64285713, 'hatchling': 0}
+wrong starling
+---------------------------------------------
+23
+('question no:', 66)
+{'undulated': 0, 'stagnated': 1.085734236, 'permeated': 0.96989038, 'enjoined': 0.5555556, 'delineated': 1.106189407}
+wrong delineated
+---------------------------------------------
+23
+('question no:', 67)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'benefit': 1.4531169000000002, 'partiality': 0.5023840679999999, 'canon': 0, 'temptation': 0.9977058990000001, 'hindrance': 0.7770385320000001}
+wrong benefit
+---------------------------------------------
+23
+('question no:', 68)
+{'impasse': 0.5838963340000001, 'diversion': 0.9917707, 'liquefaction': 0.6, 'obscurity': 0.6766166259999999, 'decadence': 0.621461445}
+wrong diversion
+---------------------------------------------
+23
+('question no:', 69)
+{'terse': 0.23613499, 'benign': 0.14905903, 'flagrant': 0.304115, 'futile': 0.23886058599999999, 'coerced': 0.300321141}
+wrong flagrant
+---------------------------------------------
+23
+('question no:', 70)
+{'aggravated': 0.586088075, 'segregated': 0.2702817346, 'immeasurable': 0, 'lethargic': 0.306130287, 'nullified': 0.4716772819999999}
+wrong aggravated
+---------------------------------------------
+23
+('question no:', 71)
+{'attrition': 0, 'interaction': 0.61468789, 'reiteration': 0.41508492399999997, 'perdition': 0.5555556, 'sedition': 0.5555556}
+wrong interaction
+---------------------------------------------
+23
+('question no:', 72)
+{'amphibious': 0, 'munificent': 0, 'forensic': 0.496336235, 'portly': 0, 'guileful': 0}
+wrong forensic
+---------------------------------------------
+23
+('question no:', 73)
+{'zenith': 0.486947945, 'zephyr': 0, 'nocturne': 0, 'vale': 0, 'plethora': 0.592162248}
+wrong plethora
+---------------------------------------------
+23
+('question no:', 74)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'voracious': 0.567922351, 'harrowing': 0.7918646810000001, 'prodigal': 0.9113120560000001, 'equivocal': 1.6215678370000002, 'irate': 0}
+true equivocal
+---------------------------------------------
+24
+('question no:', 75)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'expiation': 0, 'interpretation': 2.00994289, 'inoculation': 0.656951272, 'honorarium': 0, 'inquisition': 0.640590681}
+wrong interpretation
+---------------------------------------------
+24
+('question no:', 76)
+{'exalted': 0.833893642, 'engendered': 1.153508342, 'protracted': 1.048618648, 'filibustered': 0.607795117, 'coveted': 0.9466800099999999}
+wrong engendered
+---------------------------------------------
+24
+('question no:', 77)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'terrariums': 0, 'ravines': 0.16963154000000003, 'belfries': 0, 'jurisdictions': 0.5738431239999999, 'neoprene': 0}
+wrong jurisdictions
+---------------------------------------------
+24
+('question no:', 78)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'staid': 0, 'auspicious': 0.24809218, 'sterile': 0.5414623980000001, 'stagnant': 0.40562787699999997, 'dogmatic': 0.345513224}
+wrong sterile
+---------------------------------------------
+24
+('question no:', 79)
+{'nimble': 0.812396403, 'belligerent': 0, 'volatile': 0.431774028, 'speculative': 0.714915067, 'demure': 0.261411304}
+true nimble
+---------------------------------------------
+25
+('question no:', 80)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'gamut': 1.4358546410000002, 'motif': 1.489355237, 'lexicon': 1.334467817, 'manifold': 0.851273761, 'burrow': 0.7593865270000002}
+wrong motif
+---------------------------------------------
+25
+('question no:', 81)
+{'transcended': 0.9515600230000001, 'sustained': 0.7657167600000001, 'ensconced': 0.910918569, 'lolled': 1.0086880599999999, 'expelled': 0.896223096}
+true lolled
+---------------------------------------------
+26
+('question no:', 82)
+{'vainglory': 0, 'diffidence': 0, 'mockery': 0.6299945530000001, 'tempestuousness': 0, 'timidity': 0.9669130429999998}
+wrong timidity
+---------------------------------------------
+26
+('question no:', 83)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'consequential': 0, 'avaricious': 0.443551027, 'dauntless': 0, 'venturous': 0, 'mordant': 0}
+wrong avaricious
+---------------------------------------------
+26
+('question no:', 84)
+{'epiphany': 0, 'advocate': 1.39238324, 'connoisseur': 0.598759014, 'levity': 0.621501091, 'detractor': 0}
+true advocate
+---------------------------------------------
+27
+('question no:', 85)
+{'rendered': 2.417045436, 'placated': 0, 'abated': 0.6221564470000001, 'enumerated': 0.591211682, 'relented': 0.7818462119999999}
+wrong rendered
+---------------------------------------------
+27
+('question no:', 86)
+{'bolster': 0.6541225020000001, 'appease': 0.536675885, 'exacerbate': 0.5834153360000001, 'cow': 2.1327566269999996, 'waylay': 0}
+true cow
+---------------------------------------------
+28
+('question no:', 87)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'torpor': 0, 'prescience': 1.875, 'insight': 1.256559083, 'vigor': 0.7496116580000001, 'parody': 0.41560516000000003}
+wrong prescience
+---------------------------------------------
+28
+('question no:', 88)
+{'judicious': 0.277652889, 'primal': 0.3790308170000001, 'melancholy': 0.49519246800000005, 'pragmatic': 0.484547913, 'intimate': 0.5529480779999999}
+wrong intimate
+---------------------------------------------
+28
+('question no:', 89)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'labyrinth': 0.345453431, 'vinculum': 0, 'garrison': 1.44333431, 'villa': 0.339440286, 'summary': 0.6540641600000001}
+true garrison
+---------------------------------------------
+29
+('question no:', 90)
+{'impartial': 0.5079020169999999, 'partisan': 0.6716715530000001, 'amenable': 0.47825842599999996, 'deferential': 0.531378099, 'contrite': 0}
+wrong partisan
+---------------------------------------------
+29
+('question no:', 91)
+{'trifle': 0, 'list': 2.605212576, 'expedite': 1.111338836, 'degenerate': 1.6647017659999999, 'disseminate': 1.124803486}
+true list
+---------------------------------------------
+30
+('question no:', 92)
+{'bland': 0.8797644470000001, 'factious': 0.5714286, 'verdant': 0, 'innocuous': 0.83669757, 'pliant': 0.9249001849999999}
+wrong pliant
+---------------------------------------------
+30
+('question no:', 93)
+{'forebode': 0, 'peruse': 1.31391768, 'stipulate': 1.4122138400000002, 'maltreat': 0, 'mandate': 1.1458832349999999}
+wrong stipulate
+---------------------------------------------
+30
+('question no:', 94)
+{'chine': 0, 'quirt': 0, 'hearth': 0.433138266, 'jolt': 0.46190323499999997, 'bristle': 0.604367825}
+wrong bristle
+---------------------------------------------
+30
+('question no:', 95)
+{'pique': 0.26881454, 'broach': 0.447877069, 'reprove': 0.308628904, 'extricate': 0.335768102, 'oust': 0.20718097400000002}
+wrong broach
+---------------------------------------------
+30
+('question no:', 96)
+{'apex': 0.470849675, 'dungeon': 0.617700944, 'speculation': 1.39724447, 'terminus': 0, 'nadir': 0}
+wrong speculation
+---------------------------------------------
+30
+('question no:', 97)
+{'perpetrate': 1.3562586840000002, 'prosper': 1.633607473, 'palpitate': 0, 'mediate': 1.4436956399999998, 'palliate': 0}
+true prosper
+---------------------------------------------
+31
+('question no:', 98)
+{'subsidiary': 0.702598093, 'freshwater': 0.38260286450000003, 'improvident': 0.6, 'gelid': 0, 'compendious': 0}
+wrong subsidiary
+---------------------------------------------
+31
+('question no:', 99)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'rescission': 0, 'heroism': 0.655308712, 'depreciation': 0.809088287, 'loquacity': 0, 'decadence': 0.4881779}
+wrong depreciation
+---------------------------------------------
+31
+('question no:', 100)
+{'quiescence': 0, 'gamut': 0.6078728390000001, 'vertex': 0.6666667, 'gullet': 0.666313406, 'narthex': 0}
+true vertex
+---------------------------------------------
+32
+('question no:', 101)
+{'fortitude': 0.39896627800000006, 'conformation': 1.9166667, 'penchant': 0.37826828, 'perpetuity': 0, 'maxim': 0.71762886}
+wrong conformation
+---------------------------------------------
+32
+('question no:', 102)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'mercenary': 0.484749506, 'anomaly': 0, 'cosmopolitan': 0.494654189, 'anathema': 0, 'itinerant': 0.26525521399999996}
+wrong cosmopolitan
+---------------------------------------------
+32
+('question no:', 103)
+{'detriment': 0.5348322409999999, 'rogue': 0.9206697699999999, 'pinnacle': 0.606215293, 'repose': 0, 'oligarchy': 0}
+wrong rogue
+---------------------------------------------
+32
+('question no:', 104)
+{'prowess': 1.436094903, 'pretentiousness': 0, 'succor': 0.7233806729999999, 'finesse': 1.9782965, 'aversion': 1.164699327}
+true finesse
+---------------------------------------------
+33
+('question no:', 105)
+{'polemic': 0.7930196870000001, 'tirade': 0.82142821, 'guile': 0.752092454, 'bravado': 0.9485422769999998, 'heresy': 0.6517515119999999}
+wrong bravado
+---------------------------------------------
+33
+('question no:', 106)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'savvy': 1.1458528449999998, 'universal': 1.379992025, 'malicious': 0.722318121, 'predominant': 1.00523823, 'affluent': 1.034307939}
+wrong universal
+---------------------------------------------
+33
+('question no:', 107)
+{'infuse': 1.324532997, 'interject': 0, 'conjure': 0, 'encumber': 0.968870796, 'gesticulate': 0.697384233}
+wrong infuse
+---------------------------------------------
+33
+('question no:', 108)
+{'tiresome': 0.31486906000000003, 'gleesome': 0, 'wholesome': 0.309104482, 'awesome': 0.35704382, 'fearsome': 0}
+wrong awesome
+---------------------------------------------
+33
+('question no:', 109)
+{'rendition': 1.6831845559999998, 'compunction': 0.792180919, 'libel': 0.8829535959999999, 'assignation': 0, 'dispensation': 1.015568065}
+wrong rendition
+---------------------------------------------
+33
+('question no:', 110)
+{'universality': 0, 'garrulity': 0, 'misnomer': 0.726383862, 'benevolence': 1.85574986, 'preoccupation': 0.700165865}
+wrong benevolence
+---------------------------------------------
+33
+('question no:', 111)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'reparation': 0.687973134, 'injunction': 0.664944591, 'affinity': 1.068533363, 'analogy': 0.9020469660000001, 'exigency': 0}
+true affinity
+---------------------------------------------
+34
+('question no:', 112)
+{'sneer': 0.6916331, 'revel': 0.663719175, 'repudiate': 0.219554344, 'antiquate': 0, 'ostracize': 0}
+wrong sneer
+---------------------------------------------
+34
+('question no:', 113)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'fetters': 0.377746911, 'peruses': 0.860902259, 'beguiles': 1.016728083, 'extols': 1.300341518, 'sanctions': 0.6031131470000001}
+true extols
+---------------------------------------------
+35
+('question no:', 114)
+{'philosophical': 0.67348153, 'eroding': 0.376742655, 'preventative': 0, 'advantageous': 0.526179897, 'preposterous': 0.317898317}
+wrong philosophical
+---------------------------------------------
+35
+('question no:', 115)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'ignore': 1.140770492, 'glean': 1.9743248299999998, 'narrate': 1.59525287, 'extol': 0.701225577, 'extend': 2.091262025}
+wrong extend
+---------------------------------------------
+35
+('question no:', 116)
+{'synopsis': 0.434754219, 'ligature': 0, 'premise': 0.5853914659999999, 'doctrine': 0.42658624, 'degeneration': 0.808530822}
+wrong degeneration
+---------------------------------------------
+35
+('question no:', 117)
+{'persnickety': 0, 'meticulous': 0.552452642, 'suave': 0.6747422220000001, 'contentious': 1.1177027959999999, 'virile': 1.117946437}
+true virile
+---------------------------------------------
+36
+('question no:', 118)
+{'debasement': 0.40885827399999997, 'modicum': 0.9739049790000001, 'diversion': 0.718015587, 'disapprobation': 0, 'submission': 1.0294504899999999}
+wrong submission
+---------------------------------------------
+36
+('question no:', 119)
+{'martyr': 0.684377382, 'arbiter': 0.8034401189999999, 'dystopia': 0, 'maverick': 0.8393701600000001, 'fiduciary': 0}
+wrong maverick
+---------------------------------------------
+36
+('question no:', 120)
+{'blighted': 0.443494862, 'ostentatious': 0.413240414, 'confutative': 0, 'blissful': 0.395349975, 'ravenous': 0.568183237}
+true ravenous
+---------------------------------------------
+37
+('question no:', 121)
+{'nonplussed': 0, 'pliable': 0.201897124, 'endogenous': 0, 'amicable': 0.219442759, 'euphoric': 0.24358573}
+wrong euphoric
+---------------------------------------------
+37
+('question no:', 122)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'facile': 0.38943716100000003, 'resilient': 0.39034051599999997, 'ardent': 0.430163739, 'pristine': 0.32853640900000003, 'obsolete': 0.747442985}
+wrong obsolete
+---------------------------------------------
+37
+('question no:', 123)
+{'retired': 0.8516457590000001, 'expired': 1.116037875, 'ensured': 1.62498772, 'transpired': 0.746641625, 'extorted': 0.506167272}
+wrong ensured
+---------------------------------------------
+37
+('question no:', 124)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'composite': 0.621704941, 'eloquence': 0.732832124, 'prerogative': 0.38162070200000003, 'allusion': 0.634424536, 'demise': 1.056512146}
+wrong demise
+---------------------------------------------
+37
+('question no:', 125)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'interjected': 0.887221928, 'glowered': 0.533756012, 'jostled': 1.2503413550000002, 'skulked': 0, 'emulated': 0.6979060805999999}
+wrong jostled
+---------------------------------------------
+37
+('question no:', 126)
+{'elated': 0.625, 'boastful': 0.5776296849999999, 'na\xc3\xafve': 0, 'elevated': 0.9988232590000001, 'panoramic': 0.386150456}
+wrong elevated
+---------------------------------------------
+37
+('question no:', 127)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'pariah': 0, 'guise': 0.737444436, 'rogue': 0.581462154, 'anathema': 0, 'faction': 0.6509074800000001}
+wrong guise
+---------------------------------------------
+37
+('question no:', 128)
+{'exile': 0.66282259, 'pertinence': 0, 'renown': 0.670892858, 'travail': 0, 'repose': 0}
+wrong renown
+---------------------------------------------
+37
+('question no:', 129)
+{'termagant': 0, 'plethora': 0.5962581889999999, 'novice': 0.403393189, 'neophyte': 0, 'virtuoso': 1.102428348}
+true virtuoso
+---------------------------------------------
+38
+('question no:', 130)
+{'premeditated': 0, 'serried': 0, 'irrevocable': 0, 'articulate': 1.234439741, 'discourteous': 0}
+wrong articulate
+---------------------------------------------
+38
+('question no:', 131)
+{'macabre': 0.756901118, 'precocious': 0.6739649000000001, 'preparatory': 0, 'archaic': 0.559416255, 'impetuous': 0.94289456}
+wrong impetuous
+---------------------------------------------
+38
+('question no:', 132)
+{'modulation': 0.755301091, 'terminus': 0, 'recrimination': 0, 'assertion': 0.841199189, 'dissidence': 0.48292292400000003}
+wrong assertion
+---------------------------------------------
+38
+('question no:', 133)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'staunch': 0.44105883300000004, 'vaunt': 0, 'excise': 0.380407524, 'renege': 0.354863633, 'begrudge': 0}
+wrong staunch
+---------------------------------------------
+38
+('question no:', 134)
+{'industrious': 0.543212743, 'eloquent': 0.6740571380000001, 'illustrious': 0.753074382, 'enviable': 0.5892420020000001, 'officious': 1.040439884}
+true officious
+---------------------------------------------
+39
+('question no:', 135)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'fusillade': 0, 'm\xc3\xa9lange': 0, 'bastion': 0, 'solecism': 0, 'dichotomy': 0.44459403699999994}
+wrong dichotomy
+---------------------------------------------
+39
+('question no:', 136)
+{'malcontent': 0.6, 'discreet': 0, 'precarious': 0.40551511400000007, 'prudent': 0.573311332, 'stupendous': 0.296177911}
+true malcontent
+---------------------------------------------
+40
+('question no:', 137)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'triad': 0, 'corrosive': 0.5264628, 'pungent': 1.42100644, 'parcel': 0.6855964170000001, 'unguent': 0}
+wrong pungent
+---------------------------------------------
+40
+('question no:', 138)
+{'synonymous': 0.49911928499999997, 'pertinent': 1.124643566, 'inalienable': 0.47572974399999995, 'abject': 0, 'pretentious': 0.39845086100000005}
+true pertinent
+---------------------------------------------
+41
+('question no:', 139)
+{'preternatural': 1.02777775, 'surreptitious': 0, 'inane': 0, 'endemic': 0.611214295, 'vocative': 0}
+wrong preternatural
+---------------------------------------------
+41
+('question no:', 140)
+{'sincere': 0.9773072949999999, 'incorrigible': 1.408294567, 'adorable': 1.010391814, 'demure': 1.041287953, 'lamentable': 1.519747988}
+wrong lamentable
+---------------------------------------------
+41
+('question no:', 141)
+{'malady': 1.347276261, 'nonchalance': 0.514662581, 'nonentity': 0.502132241, 'repository': 0.48782662, 'missive': 0}
+true malady
+---------------------------------------------
+42
+('question no:', 142)
+{'pilgrimage': 0.8463420850000001, 'jaunt': 0.982787843, 'repast': 0, 'intimation': 0, 'expedition': 1.130765035}
+wrong expedition
+---------------------------------------------
+42
+('question no:', 143)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'beset': 0.560138502, 'lauded': 0, 'precluded': 0.450206502, 'surmised': 0.60315146, 'garnered': 0}
+wrong surmised
+---------------------------------------------
+42
+('question no:', 144)
+{'raddle': 0, 'daunt': 0, 'empower': 0.6010542059999999, 'thrush': 0, 'scrabble': 0.6954751049999999}
+wrong scrabble
+---------------------------------------------
+42
+('question no:', 145)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'insinuated': 0.552097474, 'imposed': 1.1849505999999999, 'discounted': 0.7080885160000001, 'pervaded': 0.5144367750000001, 'ensconced': 0.626990974}
+wrong imposed
+---------------------------------------------
+42
+('question no:', 146)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'waned': 1.0515351869999998, 'waxed': 0.9898092740000001, 'preempted': 0.8613375369999999, 'deranged': 0, 'flouted': 0.882862737}
+true waned
+---------------------------------------------
+43
+('question no:', 147)
+{'exemplary': 0.847415593, 'pivotal': 1.041270896, 'arable': 0.637284561, 'volatile': 0.742591981, 'degenerate': 0.717952736}
+wrong pivotal
+---------------------------------------------
+43
+('question no:', 148)
+{'pristine': 0.404837224, 'meritorious': 0, 'fortuitous': 0.372885749, 'unconscionable': 0.553347096, 'steadfast': 0.48868849400000003}
+true unconscionable
+---------------------------------------------
+44
+('question no:', 149)
+{'veracity': 0, 'tact': 0.558615259, 'principle': 0.855936194, 'composure': 0.648798358, 'perdition': 1.1875}
+true perdition
+---------------------------------------------
+45
+('question no:', 150)
+{'sneering': 0.48383358400000004, 'disparaging': 0.5844370609999999, 'lissome': 0, 'cosmopolitan': 1.18025847, 'unabashed': 0.48209998499999995}
+wrong cosmopolitan
+---------------------------------------------
+45
+('question no:', 151)
+{'ogling': 0.371954874, 'brooding': 0.34117755299999997, 'groveling': 0, 'embellishing': 0.291287014, 'meandering': 0.214078815}
+wrong ogling
+---------------------------------------------
+45
+('question no:', 152)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'riddled': 0.605452365, 'congregated': 0.43734210500000004, 'circulated': 1.5452964759999999, 'salvaged': 0.664296917, 'emulated': 0.8353017770000001}
+wrong circulated
+---------------------------------------------
+45
+('question no:', 153)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'voracious': 0.763304134, 'amiable': 1.520270211, 'derogatory': 0.839594771, 'capricious': 0.706981218, 'tactile': 0}
+wrong amiable
+---------------------------------------------
+45
+('question no:', 154)
+{'irritating': 0.400671806, 'eradicating': 0.416578261, 'objurgating': 0, 'dissipating': 0.798586867, 'undulating': 0}
+wrong dissipating
+---------------------------------------------
+45
+('question no:', 155)
+{'disengage': 0.9186398849999999, 'negate': 0.594261261, 'ponder': 0.8873537309999999, 'relinquish': 1.35956144, 'alleviate': 0.867862789}
+wrong relinquish
+---------------------------------------------
+45
+('question no:', 156)
+{'variegate': 0, 'teem': 2.2380953, 'striate': 0, 'capitulate': 0.753166319, 'wrangle': 0.7593417290000001}
+wrong teem
+---------------------------------------------
+45
+('question no:', 157)
+{'laconic': 0, 'peremptory': 1.502375321, 'parietal': 0, 'irresolute': 0, 'itinerant': 1.171936155}
+wrong peremptory
+---------------------------------------------
+45
+('question no:', 158)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'insolvent': 0.8035708320000001, 'ineffectual': 0.6, 'liberal': 1.0403076390000001, 'injurious': 0.953128428, 'malignant': 0.30472485000000005}
+true liberal
+---------------------------------------------
+46
+('question no:', 159)
+{'irreverent': 0.5078609430000001, 'redolent': 0, 'coherent': 0.56740193, 'recusant': 0, 'monotonous': 0.7490842200000001}
+true monotonous
+---------------------------------------------
+47
+('question no:', 160)
+{'pretentious': 0.46775010499999997, 'fraudulent': 0.34979476099999995, 'frolicsome': 0, 'endemic': 0.462212835, 'wiry': 1.2316237019999998}
+true wiry
+---------------------------------------------
+48
+('question no:', 161)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'berated': 0.505318496, 'placated': 0, 'underrated': 0.97759131, 'interred': 1.2327905600000002, 'dissuaded': 0.773296376}
+wrong interred
+---------------------------------------------
+48
+('question no:', 162)
+{'martyr': 0.98025967, 'plebian': 0, 'neophyte': 0, 'buffoon': 1.007293314, 'wraith': 0}
+true buffoon
+---------------------------------------------
+49
+('question no:', 163)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'psychological': 1.400268781, 'archeological': 0, 'optical': 0.572906434, 'oral': 0.7583408799999999, 'osteopathic': 0}
+wrong psychological
+---------------------------------------------
+49
+('question no:', 164)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'decorous': 0.791989619, 'caustic': 0.553807054, 'erratic': 0.638564576, 'irksome': 0, 'surreptitious': 0}
+true decorous
+---------------------------------------------
+50
+('question no:', 165)
+{'pristine': 1.2463126810000003, 'devious': 0.458099367, 'flamboyant': 0.6755181600000001, 'fiery': 0, 'appalling': 0.531651758}
+true pristine
+---------------------------------------------
+51
+('question no:', 166)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'recessive': 0, 'tranquil': 0, 'contemplative': 0.741969448, 'jaunty': 1.0551982850000001, 'fanatical': 0.358033735}
+true jaunty
+---------------------------------------------
+52
+('question no:', 167)
+{'lackluster': 0, 'penitent': 0.693110914, 'engrossed': 0, 'litigious': 0, 'obsolete': 0.442434848}
+wrong penitent
+---------------------------------------------
+52
+('question no:', 168)
+{'plausible': 0.7642220509999998, 'formative': 0.666658856, 'mawkish': 1.2553045879999998, 'infallible': 0.6963972979999999, 'persuasive': 1.0458800959999999}
+true mawkish
+---------------------------------------------
+53
+('question no:', 169)
+{'egalitarian': 0.9608096880000001, 'sardonic': 0.780156823, 'reticent': 0.710895419, 'loquacious': 0, 'callow': 0.75}
+wrong egalitarian
+---------------------------------------------
+53
+('question no:', 170)
+{'obdurate': 0, 'poignant': 0.8085168800000001, 'reputable': 1.5327428099999998, 'oafish': 0.6666667, 'indignant': 1.124405845}
+wrong reputable
+---------------------------------------------
+53
+('question no:', 171)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'punctilious': 0, 'deleterious': 0, 'parsimonious': 0, 'scintillating': 0.526505341, 'insipid': 0.55746242}
+wrong insipid
+---------------------------------------------
+53
+('question no:', 172)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'unctuous': 0, 'forlorn': 0.44150982800000005, 'striated': 0, 'frowsy': 0, 'undulating': 0}
+wrong forlorn
+---------------------------------------------
+53
+('question no:', 173)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'malodorous': 0, 'intriguing': 0.52938892, 'witless': 0, 'necrotic': 0, 'pliant': 0.46779613600000003}
+wrong intriguing
+---------------------------------------------
+53
+('question no:', 174)
+{'pavid': 0, 'servile': 0.7507866089999999, 'scornful': 1.2932587599999998, 'diligent': 0.664648122, 'optimistic': 0.68186406}
+wrong scornful
+---------------------------------------------
+53
+('question no:', 175)
+{'precursor': 0.49435812599999995, 'rendition': 0.9920083500000001, 'precession': 0.625, 'malediction': 0, 'insurgence': 0}
+wrong rendition
+---------------------------------------------
+53
+('question no:', 176)
+{'flaccid': 0.44368511000000005, 'fortuitous': 0.6248650480000001, 'vindictive': 0.542089522, 'apathetic': 0.5141023060000001, 'restorative': 0}
+wrong fortuitous
+---------------------------------------------
+53
+('question no:', 177)
+{'cache': 1.0676400309999998, 'fodder': 0.9495783099999999, 'lament': 0.583073505, 'odyssey': 0.69530752, 'matrix': 0}
+true cache
+---------------------------------------------
+54
+('question no:', 178)
+{'pavid': 0, 'habitual': 0.62289469, 'salacious': 0, 'overzealous': 0, 'reluctant': 0.7498825660000001}
+true reluctant
+---------------------------------------------
+55
+('question no:', 179)
+{'voracious': 0.132993623, 'mundane': 0.16609190299999999, 'intrepid': 0.10403615, 'egocentric': 0.141041047, 'garrulous': 0.181460634}
+wrong garrulous
+---------------------------------------------
+55
+('question no:', 180)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'contradict': 0.43039477600000003, 'placate': 0, 'instigate': 0.445340282, 'undermine': 0.474969522, 'resonate': 0.264141316}
+true undermine
+---------------------------------------------
+56
+('question no:', 181)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'authorize': 0.664677857, 'plagiarize': 0.686148686, 'meditate': 1.10187605, 'overrule': 0.490031522, 'stimulate': 1.600546589}
+wrong stimulate
+---------------------------------------------
+56
+('question no:', 182)
+{'secular': 0.87083244, 'suave': 0.75771435, 'truant': 0.6504648460000001, 'turgid': 0.9070841740000001, 'wizened': 0}
+wrong turgid
+---------------------------------------------
+56
+('question no:', 183)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'jeopardized': 0.752146012, 'maintained': 1.1544210069999998, 'compelled': 1.2019185430000001, 'expounded': 0, 'advanced': 1.817041539}
+wrong advanced
+---------------------------------------------
+56
+('question no:', 184)
+{'reminiscent': 0.933318037, 'recondite': 0, 'belligerent': 0, 'malleable': 0, 'incessant': 0.468253839}
+true reminiscent
+---------------------------------------------
+57
+('question no:', 185)
+{'juncture': 0.784789033, 'cessation': 0.50960954, 'lexicon': 0.8761440570000001, 'asperity': 0, 'classicism': 0}
+true lexicon
+---------------------------------------------
+58
+('question no:', 186)
+{'liability': 1.114952881, 'concession': 0.96117825, 'consolidation': 0.8736469240000001, 'stipend': 0.9290843470000001, 'remuneration': 1.548749254}
+wrong remuneration
+---------------------------------------------
+58
+('question no:', 187)
+{'subjection': 0, 'moratorium': 0.8478789469999999, 'indispensability': 0, 'divergence': 0.788537842, 'compulsion': 1.2692312409999997}
+wrong compulsion
+---------------------------------------------
+58
+('question no:', 188)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'congenial': 0.892821819, 'servile': 0.38593788, 'volatile': 0.629787877, 'trite': 0, 'fledgling': 0.82500938}
+true congenial
+---------------------------------------------
+59
+('question no:', 189)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'resolute': 0.5088474430000001, 'blithe': 0.709352702, 'conducive': 0.53720959, 'preternatural': 0, 'ungainly': 0.31859073}
+wrong blithe
+---------------------------------------------
+59
+('question no:', 190)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'plausible': 0.963116694, 'inarticulate': 0, 'inattentive': 0.8777341959999999, 'vulnerable': 1.126761614, 'tactful': 0.694996879}
+wrong vulnerable
+---------------------------------------------
+59
+('question no:', 191)
+{'melee': 0.682027664, 'wile': 0, 'flagrancy': 0, 'estuary': 0.605572124, 'malleability': 0}
+wrong melee
+---------------------------------------------
+59
+('question no:', 192)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'infeasible': 0, 'sedentary': 0.7607973570000001, 'infallible': 0.7966034550000001, 'temporal': 0, 'mediocre': 0.8552610360000001}
+wrong mediocre
+---------------------------------------------
+59
+('question no:', 193)
+{'ordinance': 0.355324085, 'sincerity': 1.27605565, 'contemplation': 0.59361163, 'tutelage': 0, 'levity': 0.815486894}
+wrong sincerity
+---------------------------------------------
+59
+('question no:', 194)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'variance': 0.632145582, 'disjunction': 1.35, 'motif': 0.9021096040000001, 'repugnance': 0.864964814, 'hindrance': 0.691689067}
+wrong disjunction
+---------------------------------------------
+59
+('question no:', 195)
+{'rife': 0.6360258160000001, 'explicit': 0.610489409, 'consonant': 1.236180495, 'latent': 0.6, 'ensconced': 1.170656246}
+true consonant
+---------------------------------------------
+60
+('question no:', 196)
+{'petulant': 0.8813877990000001, 'fastidious': 0.8725691400000001, 'servile': 0.709351282, 'arcane': 0, 'boisterous': 0.6606060790000001}
+wrong petulant
+---------------------------------------------
+60
+('question no:', 197)
+{'reputable': 0.8324442479999999, 'remiss': 0, 'stringent': 1.004322405, 'contentious': 1.2618567940000003, 'erudite': 0.8047929979999999}
+wrong contentious
+---------------------------------------------
+60
+('question no:', 198)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'unctuous': 0, 'portentous': 0, 'tremulous': 0, 'ubiquitous': 0.8051960640000002, 'garrulous': 0.45089443900000004}
+true ubiquitous
+---------------------------------------------
+61
+('question no:', 199)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'prevalent': 0.56863675, 'mitigated': 0.334130701, 'controversial': 0.452149856, 'arrogant': 0.170815977, 'prestigious': 0.49240131600000003}
+true prevalent
+---------------------------------------------
+62
+('question no:', 200)
+{'ebbs': 0.7662259200000001, 'zephyrs': 0, 'torques': 0, 'stanchions': 0, 'dervishes': 0}
+wrong ebbs
+---------------------------------------------
+62
+('question no:', 201)
+{'rebuked': 0.6281247879999999, 'infiltrated': 0.46495321300000003, 'accosted': 0.501474154, 'bedraggled': 0, 'exacerbated': 0.57768164}
+wrong rebuked
+---------------------------------------------
+62
+('question no:', 202)
+{'evince': 0, 'debut': 0.795559825, 'stigmatize': 0, 'forfeit': 1.1440569860000003, 'usurp': 1.148676507}
+wrong usurp
+---------------------------------------------
+62
+('question no:', 203)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'rallies': 0.7160814879999999, 'iniquities': 0, 'quips': 0.5416193300000001, 'appeasements': 0.321285315, 'quotas': 0.455678854}
+wrong rallies
+---------------------------------------------
+62
+('question no:', 204)
+{'tantamount': 0.8542702929999999, 'temporal': 0, 'tantalizing': 1.0723535309999999, 'tempestuous': 0.883528631, 'truculent': 1.026144749}
+true tantalizing
+---------------------------------------------
+63
+('question no:', 205)
+{'durable': 0.607863699, 'treacherous': 0.638211153, 'pliable': 0.769755112, 'amicable': 1.0038103120000001, 'overwrought': 1.127959761}
+true overwrought
+---------------------------------------------
+64
+('question no:', 206)
+{'stigma': 0.7232866840000002, 'scintillation': 0, 'treatise': 0.9101390089999999, 'brunt': 0.7241584880000002, 'punctiliousness': 0}
+wrong treatise
+---------------------------------------------
+64
+('question no:', 207)
+{'ruminate': 1.15733731, 'haggle': 1.485508023, 'annunciate': 0, 'stipulate': 2.2014052990000006, 'confer': 1.483614915}
+wrong stipulate
+---------------------------------------------
+64
+('question no:', 208)
+{'reconstituted': 0.6580928679999999, 'lauded': 0, 'mandated': 0.619158389, 'inferred': 0.535320572, 'augmented': 0.535489598}
+wrong reconstituted
+---------------------------------------------
+64
+('question no:', 209)
+{'nullify': 0.232830466, 'partake': 0.6666667, 'enervate': 0, 'expunge': 0, 'dilate': 0.188574662}
+true partake
+---------------------------------------------
+65
+('question no:', 210)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'recapitulating': 0, 'marauding': 0, 'reclaiming': 0.6620606080000001, 'reforming': 0.635792059, 'conceding': 0.6311221260000001}
+wrong reclaiming
+---------------------------------------------
+65
+('question no:', 211)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'oblique': 0.35878911999999996, 'ingratiating': 0.40475905199999995, 'eloquent': 0.717126014, 'acerbic': 0.68074185, 'adjacent': 0.367521549}
+wrong eloquent
+---------------------------------------------
+65
+('question no:', 212)
+{'pedestrian': 0.818133101, 'frenetic': 1.110779663, 'insipid': 0.8911898800000001, 'colloquial': 1.3284295499999998, 'pretentious': 0.473512898}
+wrong colloquial
+---------------------------------------------
+65
+('question no:', 213)
+{'aggregate': 0, 'clandestine': 0.514958747, 'quarantine': 1.11167814, 'saturate': 0.6018852239999999, 'germinate': 0.714480153}
+true quarantine
+---------------------------------------------
+66
+('question no:', 214)
+{'fawning': 0.580779183, 'obsequious': 0, 'toilsome': 0, 'tardy': 0.7989103409999999, 'fatuous': 0.5568912730000001}
+wrong tardy
+---------------------------------------------
+66
+('question no:', 215)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'satiate': 0, 'incriminate': 0, 'corral': 0.727214233, 'whet': 1.28571586, 'purport': 1.087098334}
+true whet
+---------------------------------------------
+67
+('question no:', 216)
+{'hacienda': 0, 'territory': 1.3620181639999998, 'hovel': 1.201627442, 'manor': 1.534474772, 'demesne': 0}
+wrong manor
+---------------------------------------------
+67
+('question no:', 217)
+{'latitude': 0.712368039, 'stimulus': 0.699731905, 'injunction': 0.830643254, 'assimilation': 0.880229227, 'declamation': 0}
+wrong assimilation
+---------------------------------------------
+67
+('question no:', 218)
+{'transmute': 0, 'repute': 0.42882850199999994, 'execute': 0.412074986, 'commute': 0.305247596, 'denote': 0}
+wrong repute
+---------------------------------------------
+67
+('question no:', 219)
+{'dispassionate': 0.373262179, 'unpunctual': 0, 'languid': 0.43216529099999995, 'apathetic': 0.541254817, 'gratuitous': 0.762929259}
+true gratuitous
+---------------------------------------------
+68
+('question no:', 220)
+{'acquitted': 1.345394786, 'derided': 0.286636087, 'acquainted': 0.271669586, 'protracted': 0.26596624, 'denounced': 0.54841005}
+true acquitted
+---------------------------------------------
+69
+('question no:', 221)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'germane': 0, 'fodder': 0.9097063939999999, 'dulcet': 0, 'jargon': 1.208512151, 'privation': 1.008851666}
+wrong jargon
+---------------------------------------------
+69
+('question no:', 222)
+{'irradiate': 0, 'quell': 0.44637417, 'congregate': 0.307746757, 'prelude': 0.259584595, 'intimate': 0.46559163200000003}
+wrong intimate
+---------------------------------------------
+69
+('question no:', 223)
+{'manifestation': 1.126546006, 'pillar': 0.476157234, 'parvis': 0, 'sensor': 1.091544069, 'steeple': 0.6650029679999999}
+wrong manifestation
+---------------------------------------------
+69
+('question no:', 224)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'predilection': 0.8598955690000001, 'wantonness': 0, 'miserliness': 0, 'thriftiness': 0, 'intuition': 1.013082757}
+wrong intuition
+---------------------------------------------
+69
+('question no:', 225)
+{'abutments': 0, 'mullions': 0, 'joists': 0, 'banisters': 1.069102425, 'pediments': 0}
+wrong banisters
+---------------------------------------------
+69
+('question no:', 226)
+{'rallied': 1.1928016030000002, 'recited': 1.0286529899999999, 'skulked': 0, 'disintegrated': 1.2792033480000002, 'expedited': 1.1663088830000001}
+wrong disintegrated
+---------------------------------------------
+69
+('question no:', 227)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'blithe': 0.6981100399999999, 'furtive': 0.474665232, 'listless': 0.52661487, 'tentative': 0, 'deft': 0.8387505}
+true deft
+---------------------------------------------
+70
+('question no:', 228)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'discord': 1.038467539, 'unison': 1.0003424029999999, 'redress': 0.683128996, 'affluence': 0.875004066, 'refraction': 1.2916667}
+wrong refraction
+---------------------------------------------
+70
+('question no:', 229)
+{'precocious': 1.3446320890000003, 'credulous': 0, 'ambitious': 0.674519264, 'prolific': 0.8686730180000001, 'nostalgic': 0.9733343040000002}
+wrong precocious
+---------------------------------------------
+70
+('question no:', 230)
+{'remand': 0.75, 'inhibit': 1.042992193, 'resume': 1.6433161219999999, 'dissipate': 1.133225537, 'reprimand': 1.2236037079999997}
+true resume
+---------------------------------------------
+71
+('question no:', 231)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'rapacious': 0, 'remiss': 0, 'genteel': 0.12000833799999999, 'acute': 0.77009605, 'resolute': 0.197610418}
+true acute
+---------------------------------------------
+72
+('question no:', 232)
+{'disunited': 0, 'rebuked': 0.26039343, 'listed': 0.51030597, 'flanked': 0.427335374, 'jettisoned': 0.48766449}
+wrong listed
+---------------------------------------------
+72
+('question no:', 233)
+{'wean': 0.534014067, 'wax': 1.0566062950000001, 'wield': 1.3111735930000001, 'whet': 0.767632778, 'wane': 0.794990042}
+wrong wield
+---------------------------------------------
+72
+('question no:', 234)
+{'vivacity': 1.03233245, 'apathy': 0.5026668519999999, 'languidness': 0, 'tenacity': 0.611353612, 'blandness': 0}
+true vivacity
+---------------------------------------------
+73
+('question no:', 235)
+{'maverick': 0.35824213400000005, 'pariah': 0, 'relic': 0.451544795, 'denizen': 0, 'diva': 0}
+wrong relic
+---------------------------------------------
+73
+('question no:', 236)
+{'staid': 0.5416667, 'beneficial': 1.131620002, 'unbridled': 0.733238874, 'restrained': 1.151436203, 'stealthy': 0.8551537530000002}
+wrong restrained
+---------------------------------------------
+73
+('question no:', 237)
+{'instinct': 0.9959557449999998, 'extrovert': 0.6439621219999999, 'novelty': 0.8040680060000001, 'familiarity': 0.878983386, 'tabernacle': 0.629830966}
+wrong instinct
+---------------------------------------------
+73
+('question no:', 238)
+{'harrowed': 0, 'superceded': 0, 'lauded': 0, 'jostled': 0.7916839179999999, 'jettisoned': 0.46366068799999993}
+true jostled
+---------------------------------------------
+74
+('question no:', 239)
+{'questionable': 0.8486828, 'objectionable': 0.918063922, 'antisocial': 1.032213856, 'pliable': 0.6179303649999999, 'visionary': 0.70596078}
+wrong antisocial
+---------------------------------------------
+74
+('question no:', 240)
+{'heresy': 0.771752929, 'ennui': 0, 'temperance': 0.8825485449999999, 'avarice': 0.801353796, 'infamy': 0.990796424}
+wrong infamy
+---------------------------------------------
+74
+('question no:', 241)
+{'preclude': 0.856963971, 'placate': 0, 'usurp': 0.759708244, 'augment': 0.647272053, 'deride': 0.6656076149999999}
+wrong preclude
+---------------------------------------------
+74
+('question no:', 242)
+{'rustic': 0.69653173, 'raucous': 0.417042407, 'abstract': 0.696214511, 'repellent': 0.596398559, 'ersatz': 0}
+true rustic
+---------------------------------------------
+75
+('question no:', 243)
+{'anterior': 0, 'interior': 1.092791683, 'posterior': 0.725164371, 'ulterior': 0.828487373, 'inferior': 1.3532756910000001}
+wrong inferior
+---------------------------------------------
+75
+('question no:', 244)
+{'vociferous': 0.88543611, 'egregious': 1.103035422, 'satisfied': 1.796320151, 'tenuous': 1.2611505570000001, 'vacuous': 0}
+wrong satisfied
+---------------------------------------------
+75
+('question no:', 245)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'iniquity': 0, 'innovation': 0.6779003219999999, 'accolades': 0.412687238, 'habitants': 0.6666667, 'innocence': 0.307188097}
+wrong innovation
+---------------------------------------------
+75
+('question no:', 246)
+{'euphemism': 0.486446004, 'juxtaposition': 0.27976396, 'corollary': 0, 'penchant': 0.7293106340000002, 'itinerary': 0.28610670400000004}
+wrong penchant
+---------------------------------------------
+75
+('question no:', 247)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'compendium': 0, 'calumny': 0, 'malaise': 0.561881775, 'hegemony': 0, 'sedition': 0.5833333}
+wrong sedition
+---------------------------------------------
+75
+('question no:', 248)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'gratify': 1.160200795, 'counteract': 0.8312675649999999, 'bedazzle': 0, 'objectify': 0, 'innovate': 1.0123843439999998}
+wrong gratify
+---------------------------------------------
+75
+('question no:', 249)
+{'unctuous': 0, 'superior': 2.3537008, 'silly': 0.695488667, 'fastened': 0.5184781709999999, 'tertiary': 0}
+wrong superior
+---------------------------------------------
+75
+('question no:', 250)
+{'profanation': 0, 'admonishment': 0, 'prototype': 0.4384672519999999, 'nonpareil': 0, 'alleviation': 0.871574666}
+wrong alleviation
+---------------------------------------------
+75
+('question no:', 251)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'zealot': 0, 'miscreant': 0, 'emissary': 0.9128575729999999, 'denizen': 0, 'penury': 0}
+true emissary
+---------------------------------------------
+76
+('question no:', 252)
+{'beleaguered': 0, 'relegated': 0.484917329, 'ensconced': 0.6291562150000001, 'winnowed': 0, 'solicited': 0.49527295400000004}
+wrong ensconced
+---------------------------------------------
+76
+('question no:', 253)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'diminutive': 1.13759711, 'mediocre': 1.049995603, 'pungent': 1.0669234250000001, 'middling': 0, 'posh': 1.7044726847}
+true posh
+---------------------------------------------
+77
+('question no:', 254)
+{'stimulation': 0.8428208469999999, 'derivative': 0.45988260000000003, 'solitude': 0.392186384, 'prudence': 0.32595975899999996, 'norm': 0.355601662}
+wrong stimulation
+---------------------------------------------
+77
+('question no:', 255)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'resonant': 1.10159577, 'supercilious': 0, 'placating': 0, 'tenuous': 0.7370840249999999, 'tremulous': 0}
+wrong resonant
+---------------------------------------------
+77
+('question no:', 256)
+{'plethora': 0.876580244, 'vocation': 1.170968822, 'pliancy': 0, 'combustion': 0.417080462, 'automation': 1.0810240690000001}
+true vocation
+---------------------------------------------
+78
+('question no:', 257)
+{'emollient': 0, 'inadvertent': 0.46544536, 'intrepid': 0.315016218, 'eloquent': 0.355582605, 'insignificant': 0.456728825}
+true inadvertent
+---------------------------------------------
+79
+('question no:', 258)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'bucolic': 0, 'nascent': 0, 'ersatz': 0, 'histrionic': 1.2461539289999999, 'indigenous': 1.0113436049999998}
+wrong histrionic
+---------------------------------------------
+79
+('question no:', 259)
+{'discomfited': 0, 'promulgated': 0, 'relegated': 0.6032291670000001, 'circumvented': 0.302922226, 'castigated': 0.42240127}
+wrong relegated
+---------------------------------------------
+79
+('question no:', 260)
+{'provided': 2.3874995640000005, 'demented': 0, 'alleged': 0.671293919, 'fortified': 0.639155068, 'obliged': 0.7745146270000001}
+wrong provided
+---------------------------------------------
+79
+('question no:', 261)
+{'instigation': 0.6966736769999999, 'trepidation': 0.767939732, 'refraction': 0, 'endowment': 0.890706588, 'perdition': 0.75}
+wrong endowment
+---------------------------------------------
+79
+('question no:', 262)
+{'alcove': 0.351302425, 'oaf': 1.107951044, 'impost': 0.6666667, 'ogre': 0.908492678, 'anathema': 0}
+wrong oaf
+---------------------------------------------
+79
+('question no:', 263)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'deviation': 1.5760348899999999, 'preponderance': 0.8855127560000001, 'justification': 1.4904640150000001, 'recourse': 1.156268333, 'imposition': 1.6833211050000003}
+true imposition
+---------------------------------------------
+80
+('question no:', 264)
+{'voracious': 0.352181311, 'perforated': 0.493783384, 'fickle': 0.37702098, 'fluent': 0.46394667999999994, 'infectious': 0.45045170200000006}
+true perforated
+---------------------------------------------
+81
+('question no:', 265)
+{'corrugated': 0.28322247, 'vitiated': 0, 'implemented': 0.9045753750000001, 'instigated': 0.615389509, 'titillated': 0.541350504}
+wrong implemented
+---------------------------------------------
+81
+('question no:', 266)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'perfunctory': 0.44615069800000007, 'truculent': 0.438536498, 'pernicious': 0.493787471, 'abstemious': 0, 'elliptical': 0.296544606}
+wrong pernicious
+---------------------------------------------
+81
+('question no:', 267)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'insolence': 0.652868566, 'penchant': 0.859224338, 'catalyst': 0.794302085, 'caveat': 0, 'hyperbole': 0.598000884}
+wrong penchant
+---------------------------------------------
+81
+('question no:', 268)
+{'oleander': 0.5, 'compost': 0.7449045339999999, 'paradigm': 1.171204505, 'clutter': 0.566893442, 'patagium': 0}
+wrong paradigm
+---------------------------------------------
+81
+('question no:', 269)
+{'placated': 0, 'equivalent': 0.8743338869999999, 'turgid': 0.9439766399999999, 'redundant': 0.359598741, 'quarantined': 0.47523020899999996}
+true turgid
+---------------------------------------------
+82
+('question no:', 270)
+{'obligatory': 0.529841443, 'overt': 0.70006532, 'turbulent': 0.377732106, 'illusive': 0, 'peremptory': 0.427635806}
+true overt
+---------------------------------------------
+83
+('question no:', 271)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'flirtatious': 0.5850211869999999, 'vitriolic': 0, 'truncated': 0, 'stoic': 0.554654905, 'nebulous': 0}
+wrong flirtatious
+---------------------------------------------
+83
+('question no:', 272)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'unsubstantial': 0, 'immaterial': 0.543022247, 'inauspicious': 0.695127909, 'disembodied': 0, 'copious': 0.34897577}
+true inauspicious
+---------------------------------------------
+84
+('question no:', 273)
+{'vain': 0.616715487, 'brawn': 0.61034839, 'gauge': 0.877123849, 'gore': 0.5191264499999999, 'vogue': 0.48483669900000004}
+wrong gauge
+---------------------------------------------
+84
+('question no:', 274)
+{'ardent': 0.48400038100000004, 'enigmatic': 0.65061086, 'circuitous': 0.7213068499999999, 'craven': 1.25, 'mercurial': 0}
+wrong craven
+---------------------------------------------
+84
+('question no:', 275)
+{'oeuvre': 0, 'cabal': 0, 'imprecation': 0, 'juggernaut': 0, 'encomium': 0}
+same
+---------------------------------------------
+84
+('question no:', 276)
+{'torrential': 0.7058529560000001, 'unwieldy': 0.679278461, 'reclusive': 0, 'vulnerable': 1.159091317, 'inclusive': 1.0526012740000001}
+true vulnerable
+---------------------------------------------
+85
+('question no:', 277)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'subversive': 0.359065944, 'subservient': 0.487051165, 'sundry': 0.278869402, 'surly': 0, 'subtle': 0.318604722}
+true subservient
+---------------------------------------------
+86
+('question no:', 278)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'obtuse': 0, 'endowed': 1.255382656, 'rapturous': 0.728763316, 'elated': 1.5, 'ravenous': 0.5865212320000001}
+wrong elated
+---------------------------------------------
+86
+('question no:', 279)
+{'unabated': 0.777693573, 'scrupulous': 0.952991238, 'pitiful': 0.404849229, 'harmonious': 0.8661582210000001, 'obstinate': 0.55349956}
+wrong scrupulous
+---------------------------------------------
+86
+('question no:', 280)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'resolution': 1.85488633, 'indemnity': 1.0119287890000002, 'chastisement': 0.928251211, 'clarification': 0.631669483, 'annulment': 0.96821217}
+wrong resolution
+---------------------------------------------
+86
+('question no:', 281)
+{'pugnacious': 0.596930661, 'truculent': 0.5636436949999999, 'ebullient': 0.53295971, 'esoteric': 0.8012768909999999, 'indigenous': 0.7584374709999999}
+true esoteric
+---------------------------------------------
+87
+('question no:', 282)
+{'efface': 0, 'circumscribe': 0, 'beguile': 0.518681254, 'undulate': 0, 'laud': 0}
+wrong beguile
+---------------------------------------------
+87
+('question no:', 283)
+{'infuse': 0.39353930899999995, 'binge': 0.627003387, 'slather': 0, 'enunciate': 0.805503392, 'quake': 0.617621776}
+wrong enunciate
+---------------------------------------------
+87
+('question no:', 284)
+{'verve': 0.5604899449999999, 'profundity': 0.582364864, 'sluggard': 0, 'grovel': 0.702674008, 'stupor': 1.121331606}
+true stupor
+---------------------------------------------
+88
+('question no:', 285)
+{'corroborate': 1.18871898, 'juxtapose': 0.447258875, 'omit': 0.8574703800000001, 'excel': 0.55652946, 'oscillate': 0}
+wrong corroborate
+---------------------------------------------
+88
+('question no:', 286)
+{'perfidy': 0, 'plaintiff': 1.2328568739999999, 'ionic': 0, 'waif': 0.9805114880000001, 'troubadour': 0.9675802119999999}
+wrong plaintiff
+---------------------------------------------
+88
+('question no:', 287)
+{'equitable': 0.508399347, 'pretentious': 0.39445224599999995, 'irreparable': 0.87479056, 'sanctified': 0.6059533530000001, 'preliminary': 0.473263978}
+true irreparable
+---------------------------------------------
+89
+('question no:', 288)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'mendacity': 0, 'ennui': 0, 'aplomb': 0.722766663, 'penchants': 0.95500757, 'foibles': 1.0499588199999998}
+true foibles
+---------------------------------------------
+90
+('question no:', 289)
+{'staunch': 0.94624678, 'juxtapose': 1.0354669440000002, 'circumvent': 0.9776144449999999, 'diffuse': 0, 'corroborate': 1.5596876750000002}
+wrong corroborate
+---------------------------------------------
+90
+('question no:', 290)
+{'narcissism': 0.48512949600000005, 'specification': 1.708689494, 'ramification': 0.77771813, 'gratification': 0.516823237, 'renegade': 0.71894838}
+wrong specification
+---------------------------------------------
+90
+('question no:', 291)
+{'extraordinary': 1.22787316, 'untenable': 0.525070627, 'superfluous': 0.6742860620000001, 'superannuated': 0, 'derivative': 1.1385661320000002}
+wrong extraordinary
+---------------------------------------------
+90
+('question no:', 292)
+{'gallant': 0.5932986339999999, 'poignant': 0.926473711, 'salient': 0.7839599309999999, 'onerous': 1.107829854, 'precipitous': 0.793592147}
+true onerous
+---------------------------------------------
+91
+('question no:', 293)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'ironic': 1.324573635, 'gruesome': 0.853602582, 'winsome': 0.9183006659999999, 'fatuous': 1.0305463929999998, 'flaccid': 1.0876194300000002}
+wrong ironic
+---------------------------------------------
+91
+('question no:', 294)
+{'scrutinizes': 0.7555148899999999, 'contemplates': 0.6209773029999999, 'stigmatizes': 0.812871513, 'defames': 1.057852508, 'infuses': 0.8814647349999999}
+wrong defames
+---------------------------------------------
+91
+('question no:', 295)
+{'relative': 2.044168165, 'subsequent': 1.509614242, 'inexpedient': 0, 'episodic': 0.895059582, 'referable': 0}
+wrong relative
+---------------------------------------------
+91
+('question no:', 296)
+{'pilfer': 0.6051578470000001, 'burnish': 0.497934366, 'ruminate': 0.7360481280000001, 'expedite': 0.700304765, 'wane': 0.7376740620000001}
+wrong wane
+---------------------------------------------
+91
+('question no:', 297)
+{'concomitant': 0, 'improvident': 1.2666667, 'ersatz': 0, 'mendacious': 0, 'surreptitious': 0}
+wrong improvident
+---------------------------------------------
+91
+('question no:', 298)
+{'placated': 0, 'purported': 0.454636629, 'conjugated': 0.6031648, 'facilitated': 1.016276864, 'tended': 0.93187037}
+wrong facilitated
+---------------------------------------------
+91
+('question no:', 299)
+{'Supine': 0, 'Renowned': 0, 'Trident': 0.5590287780000001, 'Renegade': 1.2440129119999999, 'Fraught': 0}
+wrong Renegade
+---------------------------------------------
+91
+('question no:', 300)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'pensive': 0.98991466, 'fictitious': 0.624084913, 'contented': 1.367852576, 'contemptuous': 0, 'parlous': 0}
+wrong contented
+---------------------------------------------
+91
+('question no:', 301)
+{'minimize': 0.26963457799999996, 'ostracize': 0, 'obliterate': 0.24828218800000001, 'scoff': 0.28801296499999995, 'alienate': 0.460364299}
+wrong alienate
+---------------------------------------------
+91
+('question no:', 302)
+{'contrived': 1.131132196, 'cryptic': 0.6180041220000001, 'adverse': 0.9013791059999999, 'tenuous': 0.959357609, 'imperial': 0.519202019}
+wrong contrived
+---------------------------------------------
+91
+('question no:', 303)
+{'motif': 1.219641793, 'gimmick': 0.9239436899999999, 'compromise': 1.570905196, 'reference': 3.6068469700000003, 'petition': 1.384086974}
+wrong reference
+---------------------------------------------
+91
+('question no:', 304)
+{'daunt': 0, 'illuminate': 0.748738825, 'recruit': 1.4229371769999999, 'dither': 0.685761263, 'flout': 0.9349630459999999}
+true recruit
+---------------------------------------------
+92
+('question no:', 305)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'zealous': 0, 'nonchalant': 0.487401188, 'callous': 0.49731889099999993, 'erratic': 0.45357494899999995, 'contrite': 0}
+wrong callous
+---------------------------------------------
+92
+('question no:', 306)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'symbolism': 1.045977279, 'habitude': 0, 'moratorium': 0.894319846, 'disposition': 1.8333333, 'justification': 1.989099437}
+true justification
+---------------------------------------------
+93
+('question no:', 307)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'emendation': 0, 'jurisdiction': 1.52364013, 'alliteration': 0, 'prerequisite': 0.5831702599999999, 'respite': 0.373332785}
+true jurisdiction
+---------------------------------------------
+94
+('question no:', 308)
+{'satiate': 0, 'initiate': 1.5188851700000001, 'relinquish': 0.5674261572, 'employ': 3.3404605700000003, 'revive': 0.509811833}
+wrong employ
+---------------------------------------------
+94
+('question no:', 309)
+{'mnemonic': 0, 'fretful': 0.316520221, 'inexorable': 0, 'unutterable': 0, 'uproarious': 0}
+wrong fretful
+---------------------------------------------
+94
+('question no:', 310)
+{'obscure': 0.353477856, 'vital': 0.394098109, 'treacherous': 0.26222982699999997, 'magnanimous': 0.508728756, 'maximized': 0.59169936}
+wrong maximized
+---------------------------------------------
+94
+('question no:', 311)
+{'laconic': 0, 'impertinent': 0.699006298, 'circuitous': 0.3949725439999999, 'ardent': 0.52749588, 'recalcitrant': 0}
+wrong impertinent
+---------------------------------------------
+94
+('question no:', 312)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'restraint': 0.744423096, 'gluttony': 0.957285043, 'equivocation': 0, 'squabbling': 0, 'queries': 0.35878758899999996}
+true gluttony
+---------------------------------------------
+95
+('question no:', 313)
+{'relinquish': 0.92207166, 'retaliate': 0.5517918670000002, 'propagate': 0.528678793, 'transgress': 0, 'expedite': 0.715925746}
+true relinquish
+---------------------------------------------
+96
+('question no:', 314)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'maven': 0, 'mercenary': 0.5326096690000001, 'dilettante': 0, 'maverick': 0.86788363, 'denizen': 0}
+wrong maverick
+---------------------------------------------
+96
+('question no:', 315)
+{'sumptuous': 0.324819629, 'scrupulous': 0.38900428699999995, 'ridiculous': 0.529836323, 'scurrilous': 0.62948969, 'fatuous': 0.291174763}
+wrong scurrilous
+---------------------------------------------
+96
+('question no:', 316)
+{'quixotic': 0.656533897, 'suave': 0.7056491100000001, 'pivotal': 1.137385302, 'unwieldy': 0.5351730889999999, 'garrulous': 0.6084836570000001}
+wrong pivotal
+---------------------------------------------
+96
+('question no:', 317)
+{'denouement': 0, 'oracle': 0.8096798520000001, 'decorum': 0.499105177, 'vizier': 0, 'pillar': 0.617023949}
+true oracle
+---------------------------------------------
+97
+('question no:', 318)
+{'charlatan': 1.340042651, 'demagogue': 0.7081405570000001, 'viceroy': 0.6, 'anathema': 0, 'behemoth': 0}
+wrong charlatan
+---------------------------------------------
+97
+('question no:', 319)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'impertinent': 0.6852080819999999, 'adjuvant': 0, 'obscure': 0.304753865, 'impeccable': 0.5975879759999999, 'observant': 0.575564944}
+true impertinent
+---------------------------------------------
+98
+('question no:', 320)
+{'prohibit': 1.0285254, 'disparage': 0.49147648, 'deprecate': 0, 'render': 1.510256461, 'rejuvenate': 0.308989116}
+true render
+---------------------------------------------
+99
+('question no:', 321)
+{'admonish': 1.0962008090000002, 'burnish': 0.488501295, 'placate': 0, 'galvanize': 0.469703824, 'disseminate': 0.9695256539999999}
+wrong admonish
+---------------------------------------------
+99
+('question no:', 322)
+{'prepossession': 0, 'credence': 0.6538038099999999, 'knell': 0, 'premise': 0.7681355820000001, 'delectation': 0}
+wrong premise
+---------------------------------------------
+99
+('question no:', 323)
+{'raucous': 0.414060035, 'pedantic': 0.43763663599999997, 'stringent': 0.664399933, 'strident': 0.43196101400000003, 'lurid': 0}
+true stringent
+---------------------------------------------
+100
+('question no:', 324)
+{'vicissitudes': 0, 'mores': 0.6472666119999999, 'nebulas': 0, 'platitudes': 0.7323339949999998, 'blandishments': 0}
+wrong platitudes
+---------------------------------------------
+100
+('question no:', 325)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'blanched': 0.532955652, 'stagnated': 0.8008391960000001, 'thwarted': 0.49535526399999996, 'coalesced': 0.6397010570000001, 'wavered': 0.490862625}
+wrong stagnated
+---------------------------------------------
+100
+('question no:', 326)
+{'heralded': 1.5090378749999995, 'decried': 0.9688072340000001, 'conjured': 0.9981693790000001, 'thwarted': 0.883587736, 'permeated': 0.7610016610000001}
+true heralded
+---------------------------------------------
+101
+('question no:', 327)
+{'enormity': 0.485944514, 'qualms': 0.656916132, 'severity': 0.8831761899999999, 'imminence': 0, 'resurrection': 0.48145204500000005}
+wrong severity
+---------------------------------------------
+101
+('question no:', 328)
+{'incontrovertible': 0, 'grandiose': 0.736284418, 'abysmal': 0.393338909, 'extraneous': 0.622441775, 'pensive': 0.674196297}
+wrong grandiose
+---------------------------------------------
+101
+('question no:', 329)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'preferment': 0, 'detriment': 1.3866871410000001, 'kilter': 0, 'quandary': 1.7097691859999997, 'prevision': 0}
+wrong quandary
+---------------------------------------------
+101
+('question no:', 330)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'seceded': 0.415012964, 'reneged': 0.628665331, 'succumbed': 0.786217086, 'retaliated': 0.6785424230000001, 'reiterated': 0.7851933289999999}
+true succumbed
+---------------------------------------------
+102
+('question no:', 331)
+{'resilient': 0.21186948500000002, 'palatable': 0.25359092, 'ancillary': 0, 'compulsory': 0.20248133, 'reciprocal': 0.240119557}
+wrong palatable
+---------------------------------------------
+102
+('question no:', 332)
+{'dilatory': 0, 'rapacious': 0, 'insurmountable': 0.7434148300000001, 'diligent': 0.621339719, 'noble': 0.8260719200000001}
+true noble
+---------------------------------------------
+103
+('question no:', 333)
+{'germane': 1.1625, 'nonchalant': 0.632091701, 'kinetic': 0, 'jovial': 0.587554365, 'extrinsic': 0}
+wrong germane
+---------------------------------------------
+103
+('question no:', 334)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'perfunctory': 0.8832912079999998, 'monotypic': 0, 'immoderate': 0, 'inconsistent': 0.6291085139999999, 'specious': 0.600767603}
+wrong perfunctory
+---------------------------------------------
+103
+('question no:', 335)
+{'plethora': 0.06373423, 'tatter': 0, 'discord': 0.143043599, 'quandary': 0.203818776, 'litany': 0.248905985}
+wrong litany
+---------------------------------------------
+103
+('question no:', 336)
+{'kinetic': 0, 'symbolic': 1.1492177470000002, 'creditable': 0.6356409639999999, 'prevalent': 0.8072133450000001, 'monotonous': 0.6133942530000001}
+wrong symbolic
+---------------------------------------------
+103
+('question no:', 337)
+{'retract': 0.686092842, 'surmount': 1.386572029, 'dismount': 0.759849116, 'intercede': 0.9482671830000001, 'expel': 0}
+true surmount
+---------------------------------------------
+104
+('question no:', 338)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'untoward': 0.59689205, 'mundane': 0.916404612, 'salacious': 0, 'riotous': 0.917382012, 'urbane': 0}
+wrong riotous
+---------------------------------------------
+104
+('question no:', 339)
+{'jocularity': 0.407467024, 'calamity': 0.659013663, 'chicanery': 0, 'clemency': 0.579603126, 'obsolescence': 0.3991700100000001}
+wrong calamity
+---------------------------------------------
+104
+('question no:', 340)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'zealous': 0, 'nondescript': 0.683202736, 'transient': 0.750241824, 'impervious': 0.7540947819999999, 'impressionable': 0.8822847649999999}
+wrong impressionable
+---------------------------------------------
+104
+('question no:', 341)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'inconstancy': 0, 'sufferance': 0.6, 'haughtiness': 0, 'insolence': 0.518625421, 'idolatry': 0.485753986}
+wrong sufferance
+---------------------------------------------
+104
+('question no:', 342)
+{'nullify': 0.722756829, 'mollify': 0.571757151, 'victimize': 0, 'ratify': 1.069415525, 'patronize': 0}
+true ratify
+---------------------------------------------
+105
+('question no:', 343)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'culminated': 2.75974488, 'teemed': 0.682536512, 'discerned': 1.8741676039999997, 'languished': 0.8534400329999999, 'finalized': 1.687583864}
+true culminated
+---------------------------------------------
+106
+('question no:', 344)
+{'tantamount': 0.4037202, 'unscrupulous': 0.196098732, 'fatuous': 0.28808243499999997, 'apathetic': 0.128045103, 'indecisive': 0.23763519}
+true tantamount
+---------------------------------------------
+107
+('question no:', 345)
+{'valorous': 0, 'benign': 0.345007383, 'inept': 0.329919463, 'erroneous': 0.24279146, 'malodorous': 0}
+wrong benign
+---------------------------------------------
+107
+('question no:', 346)
+{'relinquish': 0.75307222, 'synthesize': 0.598450473, 'motivate': 0.7597384469999999, 'validate': 0.540839964, 'orient': 0.44717118599999994}
+wrong motivate
+---------------------------------------------
+107
+('question no:', 347)
+{'reminiscent': 0.539096975, 'innocuous': 0.588387322, 'precipitous': 0.6928643090000001, 'cognizant': 0, 'belligerent': 0}
+wrong precipitous
+---------------------------------------------
+107
+('question no:', 348)
+{'disheartened': 0.6102594450000001, 'inhibited': 0.573460345, 'imbued': 0.8288158769999999, 'reconstituted': 0.55530493, 'abhorred': 0.776510754}
+true imbued
+---------------------------------------------
+108
+('question no:', 349)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'enveloped': 0.52949397, 'recanted': 0.587978478, 'extenuated': 0, 'pulverized': 0.48052200000000006, 'detracted': 0.713650434}
+wrong detracted
+---------------------------------------------
+108
+('question no:', 350)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'juxtaposition': 0.570927757, 'tirade': 0.69677828, 'myriad': 0.368062574, 'diatribe': 0, 'dearth': 0.54044242}
+wrong tirade
+---------------------------------------------
+108
+('question no:', 351)
+{'laconic': 0, 'patronizing': 0.588373604, 'affable': 0.8868454530000002, 'wheedling': 0, 'frugal': 0.7024276479999999}
+true affable
+---------------------------------------------
+109
+('question no:', 352)
+{'compellation': 0, 'affirmation': 1.7530094379999999, 'lethargy': 1.330472629, 'extortion': 0.964626202, 'acquisition': 2.6585022069999997}
+wrong acquisition
+---------------------------------------------
+109
+('question no:', 353)
+{'melee': 0.283509724, 'vista': 0.93794862, 'frieze': 0.514015598, 'foray': 0.48806963600000003, 'fray': 0.404459609}
+true vista
+---------------------------------------------
+110
+('question no:', 354)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'mellifluous': 0, 'prudent': 0.707724487, 'illusive': 0, 'malleable': 0, 'ornate': 0}
+wrong prudent
+---------------------------------------------
+110
+('question no:', 355)
+{'inculcated': 0, 'hurtled': 1.730598438, 'ascended': 1.67992446, 'entreated': 0.9230640489999999, 'aspersed': 0}
+true hurtled
+---------------------------------------------
+111
+('question no:', 356)
+{'complacent': 0.318387065, 'riveting': 0.171520695, 'rancid': 0, 'dire': 0.23584583200000003, 'scandalous': 0.14517771799999998}
+wrong complacent
+---------------------------------------------
+111
+('question no:', 357)
+{'thwarted': 1.16164752, 'oscillated': 0, 'desiccated': 0, 'coalesced': 1.267593769, 'subverted': 0.961333808}
+wrong coalesced
+---------------------------------------------
+111
+('question no:', 358)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'exclusive': 0.65263673, 'Spartan': 0.596919425, 'turgid': 0.197579318, 'spasmodic': 0.5918531490000001, 'truculent': 0.337078325}
+wrong exclusive
+---------------------------------------------
+111
+('question no:', 359)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'laconic': 0, 'receptive': 1.523848974, 'suave': 0.7055619879999999, 'uncanny': 0.65730906, 'ponderous': 0.5495854419999999}
+wrong receptive
+---------------------------------------------
+111
+('question no:', 360)
+{'pronounced': 0.282511801, 'intriguing': 0.23943698599999996, 'vapid': 0, 'exonerating': 0.123450983, 'egregious': 0.17343414899999998}
+wrong pronounced
+---------------------------------------------
+111
+('question no:', 361)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'palpable': 0.96868316, 'genteel': 0.47698706799999996, 'detrimental': 0.36529982000000005, 'futile': 0.402833, 'innovative': 0.6625181159999999}
+true palpable
+---------------------------------------------
+112
+('question no:', 362)
+{'invigorated': 0.579152274, 'fabricated': 0.910515711, 'recoiled': 1.0234551500000002, 'throttled': 0.837663618, 'recuperated': 0.42657322599999997}
+true recoiled
+---------------------------------------------
+113
+('question no:', 363)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'prevarication': 0, 'primadonna': 0, 'accolade': 0.31124466, 'charlatan': 1.8981483249999997, 'panacea': 0.559973904}
+true charlatan
+---------------------------------------------
+114
+('question no:', 364)
+{'unbiased': 0, 'archaic': 0.589594155, 'laborious': 0.469075134, 'cynical': 0.23633887799999997, 'venerable': 0.692526837}
+wrong venerable
+---------------------------------------------
+114
+('question no:', 365)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'impelled': 1.06254875, 'implicated': 0.523925717, 'rebuked': 0.840841716, 'destined': 0.625, 'augmented': 0.719499046}
+true impelled
+---------------------------------------------
+115
+('question no:', 366)
+{'dossier': 0.37933674700000003, 'incantation': 0.4548390560000001, 'denunciation': 0.301699036, 'panacea': 0.32847001200000003, 'restitution': 0.27750763300000003}
+wrong incantation
+---------------------------------------------
+115
+('question no:', 367)
+{'Deleterious': 0, 'Malicious': 0, 'Scurrilous': 0, 'Fatuous': 0, 'Uproarious': 0}
+same
+---------------------------------------------
+115
+('question no:', 368)
+{'ovation': 0.7852179770000001, 'provocation': 0.9603345999999999, 'oration': 0.403818024, 'illusion': 0.437006579, 'inclination': 1.0235368519999999}
+wrong inclination
+---------------------------------------------
+115
+('question no:', 369)
+{'pristine': 0.578468759, 'colloquial': 1.4207569100000002, 'furtive': 0.635836824, 'obsolete': 0.807176239, 'exacting': 0.9144855399999999}
+true colloquial
+---------------------------------------------
+116
+('question no:', 370)
+{'precocious': 0.374267162, 'barbarous': 0, 'quintessential': 0.410071764, 'supplemental': 0.149214436, 'fugacious': 0}
+true quintessential
+---------------------------------------------
+117
+('question no:', 371)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'contingency': 0.499162446, 'equivalence': 0.6040474800000001, 'regeneration': 0.35621657399999995, 'impenitence': 0, 'innovation': 0.21288511}
+wrong equivalence
+---------------------------------------------
+117
+('question no:', 372)
+{'efface': 0, 'undulate': 0, 'inculcate': 0, 'appease': 0.625996738, 'truncate': 0}
+wrong appease
+---------------------------------------------
+117
+('question no:', 373)
+{'recessed': 0.773514618, 'intruded': 0.38099312500000004, 'taut': 0.600272044, 'belied': 0.7615986130000001, 'suffused': 0}
+wrong recessed
+---------------------------------------------
+117
+('question no:', 374)
+{'imminent': 1.281760347, 'munificent': 0, 'puritanical': 0.5683651009999999, 'indigent': 0.6358986409999999, 'indigenous': 1.0975443839999999}
+wrong imminent
+---------------------------------------------
+117
+('question no:', 375)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'utilitarian': 0, 'endemic': 0.57257537, 'proactive': 0, 'stoic': 0.52736647, 'apathetic': 0.49851639500000006}
+wrong endemic
+---------------------------------------------
+117
+('question no:', 376)
+{'laminate': 0.34667086999999996, 'dominate': 0.572747545, 'provoke': 0.5849209120000001, 'frolic': 0.23002922, 'neglect': 0.3905323}
+wrong provoke
+---------------------------------------------
+117
+('question no:', 377)
+{'dabble': 0.693257405, 'supplicate': 0, 'quibble': 0.8342537069999999, 'proximate': 0, 'alienate': 0.849106189}
+wrong alienate
+---------------------------------------------
+117
+('question no:', 378)
+{'abject': 0, 'relinquished': 0.9255848579999999, 'lugubrious': 0.903291881, 'erratic': 0.7650262000000001, 'incessant': 0.9129842930000001}
+wrong relinquished
+---------------------------------------------
+117
+('question no:', 379)
+{'insecure': 0, 'astringent': 0.499780312, 'implicit': 0.41053049399999997, 'irresolute': 0, 'irreverent': 0.416957129}
+wrong astringent
+---------------------------------------------
+117
+('question no:', 380)
+{'prohibit': 0.896914737, 'kindle': 0.974547427, 'stifle': 0.640425055, 'dissipate': 0.670188472, 'suppress': 0.913447411}
+true kindle
+---------------------------------------------
+118
+('question no:', 381)
+{'construed': 0.739971274, 'redacted': 0, 'eradicated': 0.202375643, 'permeated': 0.339705196, 'truncated': 0}
+true construed
+---------------------------------------------
+119
+('question no:', 382)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'pasty': 0.5114506, 'wan': 0.563357587, 'syncopated': 1.0, 'swarthy': 0, 'pallid': 0.6612462870000001}
+wrong syncopated
+---------------------------------------------
+119
+('question no:', 383)
+{'voracious': 0.36283924300000003, 'spurious': 0.20416752500000002, 'porous': 0.14362491, 'veracious': 0, 'specious': 0.204511518}
+wrong voracious
+---------------------------------------------
+119
+('question no:', 384)
+{'nepotism': 0.7711230179999999, 'carrion': 0, 'skepticism': 0.9181834390000001, 'devotion': 1.088886305, 'explicitness': 0}
+wrong devotion
+---------------------------------------------
+119
+('question no:', 385)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'destitution': 0.6076519520000001, 'lamentations': 1.4166667, 'insinuations': 0.665790078, 'accolades': 1.433900596, 'antipathy': 0.7061875329999999}
+true accolades
+---------------------------------------------
+120
+('question no:', 386)
+{'temerity': 0, 'insinuation': 0.47390095525, 'reiteration': 0.550279502, 'incongruity': 0.59918994, 'intonation': 0.7369647930000001}
+wrong intonation
+---------------------------------------------
+120
+('question no:', 387)
+{'expound': 0, 'employ': 1.8968486790000003, 'accelerate': 0.9816403200000001, 'maximize': 0.9565667579999999, 'repress': 1.02263799}
+wrong employ
+---------------------------------------------
+120
+('question no:', 388)
+{'elucidate': 1.348457356, 'deprecate': 0, 'wheedle': 0, 'vacillate': 0.9401224109999999, 'indoctrinate': 0.786223545}
+true elucidate
+---------------------------------------------
+121
+('question no:', 389)
+{'calculated': 1.8229979440000004, 'lacerated': 1.429787006, 'retaliated': 0.64168895, 'curtailed': 0.8007726079999999, 'extenuated': 0}
+wrong calculated
+---------------------------------------------
+121
+('question no:', 390)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'negated': 0.5732321800000001, 'abated': 0.6224766500000001, 'mandated': 0.9216375929999999, 'nominated': 0.506250023, 'reiterated': 0.928915169}
+wrong reiterated
+---------------------------------------------
+121
+('question no:', 391)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'beguiling': 0, 'promotional': 0.9335164089999999, 'assured': 3.064356236, 'tenuous': 0.8243774150000001, 'tentative': 0.6666667}
+wrong assured
+---------------------------------------------
+121
+('question no:', 392)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'intrigue': 0.588272791, 'maliciousness': 0, 'portent': 0.787668386, 'verbiage': 0, 'herbage': 0}
+wrong portent
+---------------------------------------------
+121
+('question no:', 393)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'veracity': 0, 'evanescence': 0, 'compunction': 0.672227624, 'repudiation': 0.45281360699999995, 'vindication': 0.54921528}
+true compunction
+---------------------------------------------
+122
+('question no:', 394)
+{'jocularity': 0.5753771010000001, 'inclemency': 0, 'austerity': 0.627931215, 'servitude': 0.63641265, 'logic': 0.83302967}
+wrong logic
+---------------------------------------------
+122
+('question no:', 395)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'pedant': 0, 'archetype': 0, 'agnostic': 0.6660673460000002, 'imbroglio': 0, 'despot': 1.636133265}
+true despot
+---------------------------------------------
+123
+('question no:', 396)
+{'tenure': 0.853045958, 'flout': 0.331913634, 'teem': 0.6, 'treatise': 0.6270957100000001, 'integration': 1.630699786}
+wrong integration
+---------------------------------------------
+123
+('question no:', 397)
+{'clairvoyant': 0.537673803, 'hidden': 1.4202247050000003, 'quotidian': 0, 'cognizant': 0, 'deft': 0.502758482}
+wrong hidden
+---------------------------------------------
+123
+('question no:', 398)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'vincible': 0, 'resolute': 0.595707616, 'ornery': 0, 'indistinguishable': 0.835054127, 'predatory': 0.632810047}
+wrong indistinguishable
+---------------------------------------------
+123
+('question no:', 399)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'precluded': 0.6240724759999999, 'commensurate': 1.0, 'compulsory': 0.42327320700000004, 'prolific': 0.3784386980000001, 'manifest': 0.7691903099999999}
+true commensurate
+---------------------------------------------
+124
+('question no:', 400)
+{'providence': 0.5692353609999999, 'omission': 0.7336846309999999, 'repulsion': 0.645124088, 'estrus': 0, 'blunder': 0.7171776480000001}
+wrong omission
+---------------------------------------------
+124
+('question no:', 401)
+{'gallant': 0.5901092189999999, 'remiss': 0, 'indomitable': 0.5264692980000001, 'hostile': 0.671942075, 'hospitable': 1.4464518990000004}
+true hospitable
+---------------------------------------------
+125
+('question no:', 402)
+{'analytic': 0.648263568, 'aristocratic': 0.537576686, 'platonic': 0.5735784070000001, 'nomadic': 1.033381541, 'ballistic': 1.2289457780000002}
+wrong ballistic
+---------------------------------------------
+125
+('question no:', 403)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'rendition': 1.1749283490000002, 'concourse': 0.43575579, 'knack': 0.6128154440000001, 'impropriety': 0.533115924, 'reception': 1.321175794}
+wrong reception
+---------------------------------------------
+125
+('question no:', 404)
+{'barren': 0.495009514, 'relevant': 1.177285136, 'obsolete': 0.4996262429999999, 'dignified': 0.562990236, 'boisterous': 0.598688068}
+wrong relevant
+---------------------------------------------
+125
+('question no:', 405)
+{'staid': 0, 'bland': 0.277115272, 'supple': 0.389765311, 'obstinate': 0.446646112, 'suave': 0.643777174}
+true suave
+---------------------------------------------
+126
+('question no:', 406)
+{'presage': 0.7858566050000002, 'hirsute': 0, 'prelude': 1.2198835329999997, 'visage': 0.9203009859999999, 'armistice': 0.823935489}
+wrong prelude
+---------------------------------------------
+126
+('question no:', 407)
+{'resilient': 0.6530881049999999, 'erroneous': 0.326317247, 'stagnant': 0.632126645, 'ineffective': 0.6533719210000001, 'habitable': 0.9681410650000001}
+true habitable
+---------------------------------------------
+127
+('question no:', 408)
+{'confluence': 1.27380955, 'tirade': 0.44530734000000005, 'lexicon': 0.57505637, 'hiatus': 0, 'veneer': 0.353166875}
+true confluence
+---------------------------------------------
+128
+('question no:', 409)
+{'incriminated': 0.501690591, 'rescinded': 0.299809275, 'complied': 0.66806736, 'elevated': 1.04436013, 'fortified': 0.64319097}
+wrong elevated
+---------------------------------------------
+128
+('question no:', 410)
+{'perfunctory': 0.7944756530000001, 'noxious': 0.44004023000000003, 'elusive': 0.799872128, 'empirical': 1.3775659999999998, 'lamentable': 0.5795165569999999}
+true empirical
+---------------------------------------------
+129
+('question no:', 411)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'senile': 0, 'proportional': 1.2649795019999999, 'fraudulent': 0.57769496, 'lascivious': 0.763095769, 'laborious': 1.063058908}
+wrong proportional
+---------------------------------------------
+129
+('question no:', 412)
+{'striated': 0, 'curt': 0.5625, 'slack': 0.736842694, 'taut': 0.6977378089999999, 'trite': 0}
+wrong slack
+---------------------------------------------
+129
+('question no:', 413)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'vigilance': 0.34422992399999996, 'sepulcher': 0, 'rendezvous': 0.240405375, 'preening': 0, 'vendetta': 0.32062643}
+true vigilance
+---------------------------------------------
+130
+('question no:', 414)
+{'obtrude': 0, 'elevate': 1.277446629, 'provoke': 1.3246615789999998, 'sustain': 0.685767805, 'invade': 0.6976426299999999}
+wrong provoke
+---------------------------------------------
+130
+('question no:', 415)
+{'accouterment': 0, 'tariffs': 1.2242653710000002, 'appraisement': 0, 'retrospection': 0, 'homage': 1.5115982509999997}
+true homage
+---------------------------------------------
+131
+('question no:', 416)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'recourse': 1.131441005, 'dross': 0, 'imprecation': 0, 'enigma': 0.378352188, 'fervor': 0.5795680860000001}
+true recourse
+---------------------------------------------
+132
+('question no:', 417)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'elucidate': 1.03350422, 'appropriate': 0.97224899, 'exonerate': 0.9721344759999999, 'truncate': 0, 'protract': 0}
+wrong elucidate
+---------------------------------------------
+132
+('question no:', 418)
+{'recessive': 0.5625, 'abject': 0, 'lateral': 1.177617586, 'fastidious': 0.9580457499999999, 'nebulous': 0}
+true lateral
+---------------------------------------------
+133
+('question no:', 419)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+ation': 0.7852179770000001, 'provocation': 0.9603345999999999, 'oration': 0.403818024, 'illusion': 0.437006579, 'inclination': 1.0235368519999999}
+wrong inclination
+---------------------------------------------
+115
+('question no:', 369)Invalid word
+{'indecisive': 0.484029527, 'temporal': 0, 'understated': 0.738573504, 'tempting': 0.48839635000000003, 'restorative': 0}
+wrong understated
+---------------------------------------------
+133
+('question no:', 420)
+{'monochromatic': 0, 'benign': 0.272879692, 'virulent': 0.857349716, 'portentous': 0, 'paradoxical': 0.6986684070000001}
+true virulent
+---------------------------------------------
+134
+('question no:', 421)
+{'obtuse': 0, 'decorative': 0.647289959, 'otiose': 0, 'jovial': 0.39319259599999995, 'buoyant': 0.34018967200000005}
+wrong decorative
+---------------------------------------------
+134
+('question no:', 422)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'synthetic': 0.524570116, 'mercurial': 0, 'dialectical': 0, 'reclusive': 0, 'aesthetic': 1.033227154}
+true aesthetic
+---------------------------------------------
+135
+('question no:', 423)
+{'juncture': 0.651757625, 'limitation': 0.694775639, 'moratorium': 0.44595983299999997, 'tincture': 0, 'gradation': 1.1651740540000002}
+true gradation
+---------------------------------------------
+136
+('question no:', 424)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'labyrinth': 0.8106685650000001, 'deference': 0.9930546889999999, 'terminals': 0.7502284250000001, 'basin': 1.1390280510000002, 'temperament': 0.807154149}
+wrong basin
+---------------------------------------------
+136
+('question no:', 425)
+{'omniscience': 0.651845325, 'platitude': 0.4915804219999999, 'obstetrics': 0.43353515, 'obstinacy': 0.390763398, 'nescience': 0}
+wrong omniscience
+---------------------------------------------
+136
+('question no:', 426)
+{'aloof': 0.880797364, 'assiduous': 0, 'accommodating': 2.042604272, 'cognizant': 0, 'vociferous': 0.523603101}
+wrong accommodating
+---------------------------------------------
+136
+('question no:', 427)
+{'vagabond': 0, 'speculator': 1.156715481, 'strategist': 0, 'miser': 1.131546732, 'granger': 0}
+wrong speculator
+---------------------------------------------
+136
+('question no:', 428)
+{'Precarious': 0.7293034060000001, 'Lavish': 0, 'Luminous': 0, 'Omnipotent': 0, 'Omnivorous': 0}
+wrong Precarious
+---------------------------------------------
+136
+('question no:', 429)
+{'tint': 0.57955216, 'revolve': 0, 'germinate': 1.1281720699999997, 'modulate': 0.8068665879999999, 'ratify': 0.718204293}
+true germinate
+---------------------------------------------
+137
+('question no:', 430)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'consensus': 0.7609192860000001, 'reprieve': 0.6237187089999999, 'provision': 1.583540136, 'procession': 0.557507833, 'manifestation': 1.226669178}
+true provision
+---------------------------------------------
+138
+('question no:', 431)
+{'lackluster': 0, 'vigorous': 2.935902906, 'victorious': 1.537173621, 'infallible': 1.5458098100000002, 'felicitous': 0}
+wrong vigorous
+---------------------------------------------
+138
+('question no:', 432)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'sonorous': 0, 'striated': 0, 'timid': 0.34125828, 'sinuous': 0, 'tenuous': 0.41807646400000004}
+wrong tenuous
+---------------------------------------------
+138
+('question no:', 433)
+{'reprieve': 0.326241295, 'tangent': 0.284972832, 'belfry': 0, 'tribunal': 0.361349245, 'orifice': 0}
+wrong tribunal
+---------------------------------------------
+138
+('question no:', 434)
+{'fallacy': 0.45331112, 'vertigo': 0.79071532, 'inebriation': 0.44992050199999994, 'plethora': 0.493339305, 'exoneration': 0.6745663669999998}
+true vertigo
+---------------------------------------------
+139
+('question no:', 435)
+{'dominion': 0.634600907, 'repletion': 0, 'demise': 0.461142897, 'symmetry': 0.497582165, 'genesis': 0.442201584}
+wrong dominion
+---------------------------------------------
+139
+('question no:', 436)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'malady': 0.937440539, 'detriment': 0.7188081809999999, 'hybrid': 0.573721647, 'quota': 0.8137552889999999, 'fiasco': 0.741818824}
+wrong malady
+---------------------------------------------
+139
+('question no:', 437)
+{'languor': 0, 'recompense': 0.567673561, 'insolence': 1.0349883370000001, 'forethought': 1.00656849, 'arrogance': 0.81691454}
+wrong insolence
+---------------------------------------------
+139
+('question no:', 438)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'timbre': 0, 'brawn': 0.07064796, 'viscosity': 0.090160251, 'diadem': 0, 'ingenuity': 0.03221279}
+wrong viscosity
+---------------------------------------------
+139
+('question no:', 439)
+{'vestige': 0.5595870300000001, 'vicissitude': 0, 'viceroy': 0, 'vestibule': 0.3951309, 'visage': 0.296986264}
+true vestige
+---------------------------------------------
+140
+('question no:', 440)
+{'unctuous': 0, 'disastrous': 0.45906115799999997, 'surly': 0, 'trite': 0, 'opportune': 0.583527717}
+true opportune
+---------------------------------------------
+141
+('question no:', 441)
+{'belittled': 0.297819995, 'chagrined': 0.315133739, 'admonished': 0.3754422660000001, 'eluded': 0.180485091, 'indignant': 0.285401781}
+true admonished
+---------------------------------------------
+142
+('question no:', 442)
+{'ignored': 1.330558964, 'enforced': 0.632243801, 'gibed': 0.9621813989999999, 'cited': 0.921862886, 'abetted': 0.6672134590000001}
+wrong ignored
+---------------------------------------------
+142
+('question no:', 443)
+{'fascism': 0.452171451, 'fulcrum': 0.58761346, 'realm': 0.864189354, 'nadir': 0, 'introversion': 0}
+true realm
+---------------------------------------------
+143
+('question no:', 444)
+{'beguiled': 0.536731536, 'vied': 0.600228796, 'exhorted': 1.053417536, 'corroborated': 1.3780617620000002, 'maligned': 0.716566264}
+wrong corroborated
+---------------------------------------------
+143
+('question no:', 445)
+{'Statutes': 1.137305944, 'Ignominies': 0, 'Kudos': 0.672257766, 'Pathos': 0.736380695, 'Subsidies': 0.513811068}
+wrong Statutes
+---------------------------------------------
+143
+('question no:', 446)
+{'reviling': 0.7290842120000001, 'transgressing': 1.160373056, 'entreating': 0.517546093, 'trespassing': 0, 'sublimating': 0}
+true transgressing
+---------------------------------------------
+144
+('question no:', 447)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'girders': 0.5258365850000001, 'campaniles': 0, 'manacles': 0.6137589379999999, 'spindles': 0, 'piers': 0.37284294900000003}
+wrong manacles
+---------------------------------------------
+144
+('question no:', 448)
+{'venial': 1.1055556000000002, 'vernal': 0.55, 'menial': 0.8119962580000001, 'verbal': 1.5665976959999999, 'venal': 0.55}
+wrong verbal
+---------------------------------------------
+144
+('question no:', 449)
+{'pessimistic': 0.597067444, 'trivial': 1.343800235, 'relieved': 0.8050458414, 'irrelevant': 0.5982342839999999, 'quixotic': 0.608076983}
+wrong trivial
+---------------------------------------------
+144
+('question no:', 450)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'cacophony': 0, 'propensity': 0.49915162999999996, 'bastion': 0, 'aegis': 0, 'faction': 0.669847595}
+wrong faction
+---------------------------------------------
+144
+('question no:', 451)
+{'iniquity': 0, 'pallor': 0.429037919, 'avarice': 0.33759250599999996, 'animosity': 0.516573265, 'collusion': 0.6211014300000001}
+wrong collusion
+---------------------------------------------
+144
+('question no:', 452)
+{'commonwealth': 0.7908950299999999, 'infidels': 0.511519034, 'surrogates': 1.01250131, 'kindred': 0, 'representatives': 1.3908033446}
+wrong representatives
+---------------------------------------------
+144
+('question no:', 453)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'monstrosity': 0.868775606, 'noose': 0.910906017, 'decorum': 0.8142091799999999, 'renegade': 1.2562156949999999, 'garland': 0.8046106970000001}
+wrong renegade
+---------------------------------------------
+144
+('question no:', 454)
+{'enunciation': 0.9321778209999999, 'proclamation': 1.099544968, 'kismet': 0, 'metamorphism': 0, 'restitution': 1.273391538}
+true restitution
+---------------------------------------------
+145
+('question no:', 455)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'impetuous': 0.7985165930000001, 'affable': 0.976162919, 'languid': 0.578581998, 'placid': 0.717515313, 'conscientious': 0.855862381}
+wrong affable
+---------------------------------------------
+145
+('question no:', 456)
+{'dignitary': 0.6381066299999999, 'bureaucrat': 0.8657083830000001, 'forerunner': 0.673958472, 'vigilante': 0.5113903550000001, 'knave': 0}
+wrong bureaucrat
+---------------------------------------------
+145
+('question no:', 457)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'scanty': 0, 'studious': 0.494233855, 'obsequious': 0, 'scurrilous': 0.34507922, 'surreptitious': 0}
+wrong studious
+---------------------------------------------
+145
+('question no:', 458)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'salvageable': 0, 'obstructive': 0, 'purified': 0.394524112, 'cynical': 0.421739498, 'lurid': 0}
+wrong cynical
+---------------------------------------------
+145
+('question no:', 459)
+{'affable': 1.278283135, 'corrosive': 0.776152704, 'deleterious': 0, 'virtual': 1.010780043, 'inevitable': 1.021009768}
+wrong affable
+---------------------------------------------
+145
+('question no:', 460)
+{'exfoliate': 0, 'ventilate': 0.676343267, 'reattribute': 0, 'dominate': 0.895375845, 'palpitate': 0}
+wrong dominate
+---------------------------------------------
+145
+('question no:', 461)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'florid': 0.78595335, 'piquant': 0.526135835, 'negligible': 0.60488771, 'placid': 0.4963763080000001, 'wry': 1.1908951799999998}
+true wry
+---------------------------------------------
+146
+('question no:', 462)
+{'nonchalant': 0.9305674159999999, 'flamboyant': 0.5273995650000001, 'pivotal': 1.02933455, 'stoic': 0.6584324420000001, 'crass': 0.682745403}
+wrong pivotal
+---------------------------------------------
+146
+('question no:', 463)
+{'wield': 0.945339784, 'placate': 0, 'warrant': 0.611117983, 'procure': 0.7065600320000001, 'ensue': 1.321217416}
+wrong ensue
+---------------------------------------------
+146
+('question no:', 464)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'sledge': 0, 'attrition': 0, 'dismastment': 0, 'regalia': 0.880849518, 'sleight': 0}
+wrong regalia
+---------------------------------------------
+146
+('question no:', 465)
+{'dilatory': 0, 'derogatory': 1.024756164, 'listless': 0.717157541, 'hoary': 0, 'awry': 0.9842947289999998}
+wrong derogatory
+---------------------------------------------
+146
+('question no:', 466)
+{'paraphernalia': 0.8921420200000001, 'venue': 2.396541594, 'propaganda': 0.9048844540000001, 'pandemonium': 0.9411657, 'tenor': 1.149321278}
+wrong venue
+---------------------------------------------
+146
+('question no:', 467)
+{'fatuous': 0.907857161, 'arrant': 0, 'vitriolic': 0, 'seditious': 0, 'ribald': 1.0141650800000002}
+wrong ribald
+---------------------------------------------
+146
+('question no:', 468)
+{'guileless': 0.55516517, 'vexed': 0.46812836999999996, 'untarnished': 0, 'inauspicious': 0.8409378319999999, 'indiscriminate': 0.5557244450000001}
+wrong inauspicious
+---------------------------------------------
+146
+('question no:', 469)
+{'inculcate': 0, 'vivify': 0, 'excoriate': 0, 'eradicate': 0.63484273, 'amplify': 0.7733462790000001}
+wrong amplify
+---------------------------------------------
+146
+('question no:', 470)
+{'blasphemy': 0.613086296, 'nicety': 0, 'consensus': 0.731604863, 'philosophy': 0.9493322220000001, 'purveyance': 0}
+wrong philosophy
+---------------------------------------------
+146
+('question no:', 471)
+{'retract': 1.027618576, 'integrate': 1.1368678650000001, 'quarantine': 0.639095504, 'sequester': 1.0, 'assimilate': 1.3598992820000002}
+wrong assimilate
+---------------------------------------------
+146
+('question no:', 472)
+{'usurped': 0.39338582599999994, 'intimidated': 0.8057296030000001, 'girded': 0, 'bemused': 0.552119614, 'effaced': 0}
+wrong intimidated
+---------------------------------------------
+146
+('question no:', 473)
+{'subjugate': 0.42554486300000005, 'quell': 0.42887294400000003, 'surmise': 0.341639664, 'comport': 0, 'garner': 0}
+wrong quell
+---------------------------------------------
+146
+('question no:', 474)
+{'punctilious': 0, 'heuristic': 0, 'salubrious': 0, 'nonconformist': 0.9702955259999999, 'determinate': 0}
+wrong nonconformist
+---------------------------------------------
+146
+('question no:', 475)
+{'banality': 0.34855745299999996, 'trifle': 0, 'scapegoat': 0.9972163279999999, 'virago': 0, 'debutante': 0.8324079600000001}
+wrong scapegoat
+---------------------------------------------
+146
+('question no:', 476)
+{'obtuse': 0, 'oblivious': 0.6404424850000001, 'inept': 0.348800868, 'perceptive': 0.382163983, 'indolent': 0.19497261}
+wrong oblivious
+---------------------------------------------
+146
+('question no:', 477)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'hierarchy': 1.506340542, 'declassification': 0, 'principality': 0.927760629, 'surplus': 0.9368019639999999, 'dominion': 1.2781788050000003}
+true hierarchy
+---------------------------------------------
+147
+('question no:', 478)
+{'prosaic': 0.334434964, 'salient': 0.45520220499999997, 'taciturn': 0, 'oppressive': 0.363032746, 'replete': 0.40256559100000006}
+wrong salient
+---------------------------------------------
+147
+('question no:', 479)
+{'motif': 0.8490966970000001, 'lexicon': 0.841818432, 'hypothesis': 1.2580441939999998, 'genesis': 0.5222327790000001, 'platitude': 0.380144082}
+true hypothesis
+---------------------------------------------
+148
+('question no:', 480)
+{'pessimistic': 0.513744054, 'sadistic': 0.5914494589999999, 'domineering': 0.473433843, 'truant': 0.827538894, 'optimistic': 0.8754413360000001}
+true optimistic
+---------------------------------------------
+149
+('question no:', 481)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'synergy': 0, 'infamy': 0.570230954, 'affinity': 0.7136199950000001, 'guile': 0.377100886, 'clout': 0.640045424}
+wrong affinity
+---------------------------------------------
+149
+('question no:', 482)
+{'intrepid': 0.42489265099999995, 'pallid': 0.468643953, 'fettered': 0.5254673519999999, 'coddled': 0, 'odious': 0.46642645699999996}
+wrong fettered
+---------------------------------------------
+149
+('question no:', 483)
+{'moderator': 0.8270799149999999, 'sycophant': 1.029180069, 'drone': 0.9676627579999999, 'replica': 1.229155664, 'sluggard': 0}
+wrong replica
+---------------------------------------------
+149
+('question no:', 484)
+{'rakish': 0, 'reproachable': 0, 'quiescent': 0, 'sagacious': 0, 'mundane': 0.6322197300000001}
+wrong mundane
+---------------------------------------------
+149
+('question no:', 485)
+{'temporized': 0.55, 'wrought': 1.9072609, 'expounded': 0, 'doffed': 0, 'ebbed': 0.498137984}
+wrong wrought
+---------------------------------------------
+149
+('question no:', 486)
+{'uninterested': 0.789126708, 'unbiased': 0, 'indifferent': 1.0956211259999997, 'understated': 0.9350380180000001, 'unilateral': 0.797427696}
+wrong indifferent
+---------------------------------------------
+149
+('question no:', 487)
+{'indelible': 0.416582118, 'wearisome': 0.568252836, 'malleable': 0, 'fatuous': 0.448260479, 'nebulous': 0}
+true wearisome
+---------------------------------------------
+150
+('question no:', 488)
+{'exemplar': 0, 'harbinger': 0, 'paradox': 0.38421298600000003, 'catalyst': 0.450587117, 'mandate': 0.626531358}
+wrong mandate
+---------------------------------------------
+150
+('question no:', 489)
+{'volatile': 0.31561444000000005, 'mercurial': 0, 'indifferent': 0.49629631900000004, 'insolent': 0.36055893299999997, 'astute': 0.58782565}
+true astute
+---------------------------------------------
+151
+('question no:', 490)
+{'distend': 0.30799025, 'ponder': 0.5860586999999999, 'premeditate': 0, 'palter': 0.6666667, 'reform': 1.016944322}
+wrong reform
+---------------------------------------------
+151
+('question no:', 491)
+{'melee': 0.643248024, 'tabloid': 0.38435660299999996, 'tangent': 1.149121552, 'tableau': 0, 'rant': 0.47415745400000003}
+wrong tangent
+---------------------------------------------
+151
+('question no:', 492)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'omniscience': 1.037375327, 'resonance': 0.74007969, 'translucence': 0.969526823, 'didactics': 0, 'opulence': 0.477499201}
+wrong omniscience
+---------------------------------------------
+151
+('question no:', 493)
+{'cloister': 0, 'kowtow': 0.49501589300000004, 'chimera': 0, 'redaction': 0.6, 'diaspora': 0}
+wrong redaction
+---------------------------------------------
+151
+('question no:', 494)
+{'interrogation': 0.574654385, 'vivisection': 0.5377804300000001, 'extrapolation': 0, 'elongation': 0, 'interment': 0}
+wrong interrogation
+---------------------------------------------
+151
+('question no:', 495)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'torpor': 0, 'turpitude': 0, 'vicissitude': 0, 'lassitude': 0, 'restitution': 1.636567312}
+wrong restitution
+---------------------------------------------
+151
+('question no:', 496)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'brusque': 0.414637615, 'sinister': 0.436937326, 'sinuous': 0, 'vivacious': 0, 'garrulous': 0.36985684999999996}
+wrong sinister
+---------------------------------------------
+151
+('question no:', 497)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'narcissists': 0.280581432, 'sycophants': 0.773215116, 'elocutionists': 0, 'predecessors': 0.320123084, 'panderers': 0}
+true sycophants
+---------------------------------------------
+152
+('question no:', 498)
+{'variegated': 0, 'meticulous': 0.7072022960000001, 'blunt': 0.46450046, 'verbose': 0, 'fatuous': 0.455372768}
+wrong meticulous
+---------------------------------------------
+152
+('question no:', 499)
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+Invalid word
+{'debutant': 0, 'vernacular': 0.9860719520000001, 'epicure': 0.5625, 'nomenclature': 0.689222723, 'caste': 0.8251456079999999}
+true vernacular
+---------------------------------------------
+153
+('question no:', 500)
+{'fickle': 0.624834764, 'eloquent': 0.5677352139999999, 'gregarious': 0.5675434239999999, 'steadfast': 0.482231389, 'errant': 0.607689713}
+wrong fickle
+---------------------------------------------
+153
+('question no:', 501)
+{'simple': 0.676186156, 'vaporized': 0.456199559, 'mystical': 1.068069672, 'byzantine': 0, 'fusty': 0}
+wrong mystical
+---------------------------------------------
+153
+-------------------------
+153
+2
+346
+{64: [(u'pierce with a thrust using a pointed instrument', 'starling')]}
+

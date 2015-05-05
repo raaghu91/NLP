@@ -47,7 +47,7 @@ def computeIDF(word):
                 doc_Freq=doc_Freq+1
                 break
     numDocs=len(wiki_Data_List.keys())
-    print word, numDocs, doc_Freq
+#     print word, numDocs, doc_Freq
     if doc_Freq!=0:
         return math.log(float(numDocs)/float(doc_Freq))
     else:
@@ -82,13 +82,16 @@ def similarityScore_Weights(word,option,question_Count):
 #         print weight_Word, word_Similarity
         return word_Similarity*weight_Option*weight_Word
     except:
-        print 'Exception'
+#         print 'Exception'
         broken_Words.setdefault(question_Count,[])
         broken_Words[question_Count].append((word, option))
         return 0
     
 #Get the stop word list from NLTK corpus
 stop_Word_List = set(stopwords.words('english'))
+
+results_vector = open('Results/F6/F6_1_Output_Vector.txt','w+')
+results_output= open('Results/F6/F6_1_Results.txt','w+')
 
 question_Count=0
 option_Count=0
@@ -111,21 +114,25 @@ while question_Count<501:
             option = questionWithOption.split('[')[1].split(']')[0]
             option_List.append(option)
 #             print(question, option)
+        results_vector.write(str(question_Count+1));
+        results_vector.write("\t");
+        
         sum_weights=0
         for option in option_List: 
             for word in question.strip().split(' '):
                 if word.lower() not in stop_Word_List:
                     word=word.replace(',','')
                     option_Prob=similarityScore_Weights(word,option,question_Count)
-#                     print '-------------------------------------------------------------'
-#                     print option_Prob
                     if option not in predicted_Prob.keys():
                         predicted_Prob[option]= option_Prob
                     else:
                         predicted_Prob[option]=predicted_Prob[option]+option_Prob
-            sum_weights= sum_weights+weight_Vector[option]
+                    sum_weights= sum_weights+weight_Vector[word]
+            predicted_Prob[option]=predicted_Prob[option]/sum_weights
+            results_vector.write(str(predicted_Prob[option]))
+            results_vector.write("\t");
         
-        predicted_Prob[option]=predicted_Prob[option]/sum_weights   
+        results_vector.write("\n");        
         print predicted_Prob
         max_Prob = max(predicted_Prob.values())
 #         print max_Prob
@@ -133,23 +140,31 @@ while question_Count<501:
         for prob in predicted_Prob.values():
             if prob==max_Prob:
                 count+=1
+        result=''
         if(count>1):
             same_Count=same_Count+1
-            print 'all same'
+            result = 'same'
+            print 'same'
         else:
             for option, prob in predicted_Prob.items():
                 if prob == max_Prob:
                     if option in answers_Sent[question_Count]:
                         print 'true', option
                         true_count += 1
+                        result = 'yes'
                     else:
                         wrong_Count=wrong_Count+1
                         print 'wrong', option
+                        result = 'no'
+        results_output.write(str(question_Count+1) + ". " + result);
+        results_output.write("\n"); 
         print('---------------------------------------------')
         question_Count=question_Count+1
         option_Count=option_Count+5
         print(true_count)
     except:
+        results_output.write(str(question_Count+1) + "Exception")
+        results_output.write("\n");
         print('exception occured')
         question_Count=question_Count+1
         option_Count=option_Count+5
@@ -158,3 +173,4 @@ while question_Count<501:
 print true_count
 print same_Count
 print wrong_Count
+print broken_Words
