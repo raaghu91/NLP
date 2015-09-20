@@ -1,0 +1,17 @@
+Python version used is 2.7
+I am using python package 'tabulate' to pretty print the results.
+Please do 'pip install tabulate' before running the following code.
+
+Three independent python source files
+
+1.pos_fine.py --> Contains source for part 1
+2.pos_coarse_1.py --> Contains source for part 2 method A
+3.pos_coarse_2.py --> Contains source for part 2 method B
+
+Experimental results:
+
+Three prediction files
+
+1. part-1-predictions.tsv
+2. Method-A-predictions.tsv
+3. Method-B-predictions.tsv

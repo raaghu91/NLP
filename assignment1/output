@@ -1,0 +1,108 @@
+/usr/bin/python2.7 /home/raghu/nlp/asgn1/pos_fine.py
+Tag       Accuracy%
+------  -----------
+``              100
+$               100
+,               100
+.               100
+-LRB-           100
+:               100
+EX              100
+WP$             100
+-RRB-           100
+''               99
+DT               99
+CC               99
+TO               98
+PRP              97
+WDT              96
+NN               96
+MD               95
+POS              94
+WP               94
+WRB              93
+IN               93
+-NONE-           89
+RBS              75
+VBZ              70
+RB               69
+PRP$             67
+VBP              67
+VBD              63
+CD               63
+JJS              62
+RP               59
+RBR              50
+VB               46
+JJ               40
+NNP              40
+JJR              40
+VBG              36
+VBN              34
+NNS              33
+NNPS              2
+FW                0
+PDT               0
+SYM               0
+UH                0
+Overall Accuracy: 76.23 %
+Confusion matrix:
+*       JJ    NN    NNP    NNPS    RB    RP    IN    VB    VBD    VBN    VBP
+----  ----  ----  -----  ------  ----  ----  ----  ----  -----  -----  -----
+JJ     323   436      2       0    13     0     2     1      0      8      1
+NN      12  1535      4       0     1     0     0    31      0      1      6
+NNP      7   714    496       1     0     0     0     0      0      0      0
+NNPS     0    32      4       1     0     0     0     0      0      0      0
+RB       5    73      0       0   228     3    11     1      0      0      0
+RP       0     1      0       0     5    22     9     0      0      0      0
+IN       2    16      0       0    12     3  1169     0      0      0      0
+VB       2   130      0       0     0     0     0   143      0      2     31
+VBD      0   113      0       0     0     0     0     1    271     41      0
+VBN      0   132      0       0     0     0     0     1     23     82      0
+VBP      0    41      0       0     0     0     1    12      0      1    114
+
+Process finished with exit code 0
+
+
+/usr/bin/python2.7 /home/raghu/nlp/asgn1/pos_coarse_1.py
+Tag      Accuracy%
+-----  -----------
+SNN             98
+MISC            96
+SRB             68
+SVB             61
+SJJ             41
+Overall Accuracy: 87.89 %
+*       SNN    MISC    SRB    SVB    SJJ
+----  -----  ------  -----  -----  -----
+SNN    3920       2      1     45     19
+MISC    209    5551     18      0      2
+SRB      74      18    240      1     18
+SVB     621       6      0   1011      2
+SJJ     452       5     21     11    347
+
+Process finished with exit code 0
+
+
+
+/usr/bin/python2.7 /home/raghu/nlp/asgn1/pos_coarse_2.py
+Tag      Accuracy%
+-----  -----------
+SNN             98
+MISC            96
+SRB             66
+SVB             60
+SJJ             41
+Overall Accuracy: 87.67 %
+*       SNN    MISC    SRB    SVB    SJJ
+----  -----  ------  -----  -----  -----
+SNN    3912       6      1     49     19
+MISC    208    5550     20      0      2
+SRB      75      22    234      0     20
+SVB     627      12      0    998      3
+SJJ     451       5     23     10    347
+
+Process finished with exit code 0
+
+
+
