@@ -22,10 +22,13 @@ with open('SC_Final_Answers.txt','r') as answers_file:
  
 #Feature 1
 broken_Words={}
+
 def compareWords(word1, word2, question_Count):
     try:
         ss1 = wordnet.synsets(word1)
         ss2 = wordnet.synsets(word2)
+        list = [(s1, s2) for (s1, s2) in product(ss1, ss2) if s1.path_similarity(s2) == 1]
+        print(list)
         return max(s1.path_similarity(s2) for (s1, s2) in product(ss1, ss2))
     except:
         print 'Exception'
@@ -33,6 +36,8 @@ def compareWords(word1, word2, question_Count):
         broken_Words[question_Count].append((word, option))
         return 0
 
+print compareWords("comical","jesting",1)
+exit()
 #Get the stop word list from NLTK corpus
 stop_Word_List = set(stopwords.words('english'))
 
